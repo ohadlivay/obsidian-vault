@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "7cb0334cbfc5fd6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c844c2cf41cddf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db87582a53c7d9ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MSE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17338a4fdc467b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f753c52e19a488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b107f75606b9773",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3227d6fcc96458be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#loss-function",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69798e96c5a65476",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "03a524115f5911e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4172715578017e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3583b95bae773a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Binary Classification/Logistic Regression.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Logistic Regression"
+            }
+          },
+          {
+            "id": "bfbf0780a8c81953",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Binary Classification/Logistic Regression.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Logistic Regression"
+            }
+          },
+          {
+            "id": "9032d6d5d3b11ae8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0740394cebcf549",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Binary Classification/Logistic Regression.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Logistic Regression"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "db87582a53c7d9ef",
+  "lastOpenFiles": [
+    "Logistic Regression.md",
+    "convex optimization.md",
+    "Cost function.md",
+    "Loss function.md",
+    "Gradient Descent.md",
+    "global minimum.md",
+    "Sigmoid.md",
+    "Pasted image 20250920125102.png",
+    "MSE.md",
+    "y hat.md",
+    "probability.md",
+    "Pasted image 20250920094111.png",
+    "progressive overload.md",
+    "create a link.md",
+    "Untitled/notestar.md",
+    "Untitled 1",
+    "Binary Classification",
+    "Welcome.md"
+  ]
+}
