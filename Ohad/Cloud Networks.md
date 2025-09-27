@@ -1,0 +1,1 @@
+isolate resources within cloud provider. mostly for security.

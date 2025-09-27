@@ -2,7 +2,7 @@
 measures error for a single training example
 
 option 1: 
-use [[MSE]] loss function, this will lead to us a non-[[convex optimization]] , meaning we're not guaranteed a [[global minimum]]
+use [[MSE]] loss function, this will lead to us a non-[[Convex Optimization]] , meaning we're not guaranteed a [[Global Minimum]]
 
 option 2: 
 use this convex loss function: $L(\hat{y},y)=-(y\log \hat{y}+(1-y)\log(1-\hat{y})$

@@ -10,4 +10,4 @@ for example, memory prices:
 diminishing returns! 
 * stability or availability is also a problem sicne we rely on few powerful machines.
 
-[[horizontal scaling]]
+[[Horizontal Scaling]]

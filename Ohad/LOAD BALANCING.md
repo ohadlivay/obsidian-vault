@@ -2,4 +2,4 @@ a layer that spreads the incoming traffic load across multiple machines/hosts, s
 
 algorithms:
 -round robin (try each in sequence)
--go to host with least load (use [[Server performance metrics]] to decide where to send load)
+-go to host with least load (use [[Server Performance Metrics]] to decide where to send load)

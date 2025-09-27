@@ -1,8 +1,8 @@
 #Probability #math #ml #machine-learning #swag #sigmoid #linear-regression #logistic-regression #cost-function #loss-function
 
-unlike [[linear regression]], logistic regression is for binary classifications. and instead of fitting a curve, we fit an S shaped graph that goes from 0 to 1.
+unlike [[Linear Regression]], logistic regression is for binary classifications. and instead of fitting a curve, we fit an S shaped graph that goes from 0 to 1.
 
-uses [[maximum likelihood]] to find the best fitting S curve
+uses [[Maximum Likelihood]] to find the best fitting S curve
 ### Parameters and variables
 Given $X\in \mathbb{R^nxn}$ a sample set. 
 we want to find a $\hat{y}=P(y=1|X)$
@@ -20,6 +20,6 @@ so we apply the [[Sigmoid]] function
 and now we have our output $\hat{y}=\sigma(P(y=1|X)$
 which is a valid probability: $0\leq\hat{y}=\sigma(P(y=1|X))\leq1$
 
-[[Loss function]]
+[[Loss Function]]
 
-[[Cost function]]
+[[Cost Function]]

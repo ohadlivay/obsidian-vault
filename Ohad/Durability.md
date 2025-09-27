@@ -1,0 +1,1 @@
+a concept that ties strongly with [[Availability]]. in essence it means how durable are our files; do we have multiple copies across different machines. do we automatically make more copies of our data when one goes down. 

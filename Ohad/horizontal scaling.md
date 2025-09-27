@@ -7,4 +7,4 @@ machines that fail arent catastrophic
 CONS:
 
 
-[[vertical scaling]]
+[[Vertical Scaling]]

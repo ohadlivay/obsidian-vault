@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storage.md",
+                "file": "Serverless.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Storage"
+              "title": "Serverless"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -152,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storage.md",
+                "file": "Serverless.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Storage"
+              "title": "Outline of Serverless"
             }
           },
           {
@@ -191,34 +192,34 @@
   },
   "active": "db87582a53c7d9ef",
   "lastOpenFiles": [
-    "Cloud computing.md",
-    "Storage.md",
-    "Container Orchestration.md",
-    "Container.md",
-    "Event Driven Architecture.md",
-    "Serverless.md",
-    "Opensearch.md",
     "Scaling.md",
-    "Autoscaling.md",
-    "LOAD BALANCING.md",
-    "horizontal scaling.md",
-    "vertical scaling.md",
-    "Server performance metrics.md",
-    "Deriviative.md",
-    "Loss function.md",
+    "Cloud Computing.md",
     "Logistic Regression.md",
-    "Gradient Descent.md",
-    "linear regression.md",
-    "global minimum.md",
-    "MSE.md",
+    "Maximum Likelihood.md",
+    "Cloud Networks.md",
+    "Vertical Scaling.md",
+    "Server Performance Metrics.md",
     "Pasted image 20250920125102.png",
-    "Sigmoid.md",
-    "Cost function.md",
-    "convex optimization.md",
-    "y hat.md",
-    "probability.md",
+    "Opensearch.md",
+    "Object Storage.md",
+    "Loss Function.md",
+    "Load Balancing.md",
+    "Linear Regression.md",
+    "Infrastructure as Code.md",
+    "Global Minimum.md",
+    "Event Driven Architecture.md",
+    "Durability.md",
+    "Cost Function.md",
+    "Database Storage.md",
+    "Convex Optimization.md",
+    "Container.md",
+    "Availability.md",
+    "Horizontal Scaling.md",
+    "Storage.md",
+    "Block storage.md",
+    "Container Orchestration.md",
+    "Serverless.md",
     "Pasted image 20250920094111.png",
-    "progressive overload.md",
     "Untitled 1",
     "Binary Classification"
   ]
