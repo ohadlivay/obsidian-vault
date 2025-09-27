@@ -6,6 +6,8 @@ uses [[maximum likelihood]] to find the best fitting S curve
 ### Parameters and variables
 Given $X\in \mathbb{R^nxn}$ a sample set. 
 we want to find a $\hat{y}=P(y=1|X)$
+$\hat{y}$ is the predicted value. $y$ is the actual value. 
+in this case, $y\in{\{ 0,1 \}}$ 
 
 If we simply fit a line through the data, using linear regression, we get
 $\hat{y}=W^TX+b$  

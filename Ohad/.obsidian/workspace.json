@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE.md",
+                "file": "Storage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MSE"
+              "title": "Storage"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#loss-function",
+                "query": "tag:#mytodo/empty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,21 +152,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binary Classification/Logistic Regression.md",
+                "file": "Storage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Logistic Regression"
+              "title": "Outline of Storage"
+            }
+          },
+          {
+            "id": "6434b88209508f94",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,23 +191,35 @@
   },
   "active": "db87582a53c7d9ef",
   "lastOpenFiles": [
-    "Logistic Regression.md",
-    "convex optimization.md",
-    "Cost function.md",
+    "Cloud computing.md",
+    "Storage.md",
+    "Container Orchestration.md",
+    "Container.md",
+    "Event Driven Architecture.md",
+    "Serverless.md",
+    "Opensearch.md",
+    "Scaling.md",
+    "Autoscaling.md",
+    "LOAD BALANCING.md",
+    "horizontal scaling.md",
+    "vertical scaling.md",
+    "Server performance metrics.md",
+    "Deriviative.md",
     "Loss function.md",
+    "Logistic Regression.md",
     "Gradient Descent.md",
+    "linear regression.md",
     "global minimum.md",
-    "Sigmoid.md",
-    "Pasted image 20250920125102.png",
     "MSE.md",
+    "Pasted image 20250920125102.png",
+    "Sigmoid.md",
+    "Cost function.md",
+    "convex optimization.md",
     "y hat.md",
     "probability.md",
     "Pasted image 20250920094111.png",
     "progressive overload.md",
-    "create a link.md",
-    "Untitled/notestar.md",
     "Untitled 1",
-    "Binary Classification",
-    "Welcome.md"
+    "Binary Classification"
   ]
 }

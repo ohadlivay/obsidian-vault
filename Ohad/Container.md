@@ -1,0 +1,1 @@
+an isolated env that has all dependency (code, libraries, configs) which you can host anywhere. solves "works on my machine" problems.
