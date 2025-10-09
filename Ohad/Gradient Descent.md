@@ -7,6 +7,5 @@ and $\frac{dJ(W)}{dW}$ is the deriviative, thus we move faster the further we ar
 
 
 
-
 #mytodo/empty
 - [ ] complete this
