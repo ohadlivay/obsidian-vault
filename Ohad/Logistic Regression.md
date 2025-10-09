@@ -23,3 +23,10 @@ which is a valid probability: $0\leq\hat{y}=\sigma(P(y=1|X))\leq1$
 [[Loss Function]]
 
 [[Cost Function]]
+
+### Implementing [[Gradient Descent]] for [[Logistic Regression]]:
+![[Pasted image 20251009190346.png]]
+
+importantly we get that $dZ=a-y$
+and $dW_{1}=X_{1}*dZ$, $dW_{2}=X_{2}*dZ$, $db=dZ$
+

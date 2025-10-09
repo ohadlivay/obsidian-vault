@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logistic Regression.md",
+                "file": "Vectorization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Logistic Regression"
+              "title": "Vectorization"
             }
           },
           {
-            "id": "d14160ce01fd6d3f",
+            "id": "50e76b9eae98c74b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computation Graph.md",
+                "file": "Opensearch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,20 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Computation Graph"
+              "title": "Opensearch"
+            }
+          },
+          {
+            "id": "95859528de26bff0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "back pro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,22 +222,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "d14160ce01fd6d3f",
+  "active": "db87582a53c7d9ef",
   "lastOpenFiles": [
-    "Deriviative.md",
     "Computation Graph.md",
+    "Opensearch.md",
+    "Back Propogration.md",
+    "Vectorization.md",
+    "Gradient Descent.md",
+    "Object Storage.md",
+    "Artifical Neural Network.md",
+    "Logistic Regression.md",
+    "Cost Function.md",
+    "Pasted image 20251009190346.png",
+    "Loss Function.md",
+    "Deriviative.md",
     "Pasted image 20251009183121.png",
     "Pasted image 20251009182943.png",
     "Pasted image 20251009182916.png",
-    "Logistic Regression.md",
-    "Gradient Descent.md",
     "Request/Response Architecture.md",
     "Request",
     "Cloud Computing.md",
     "Scaling.md",
     "Horizontal Scaling.md",
     "Cloud Networks.md",
-    "Artifical Neural Network.md",
     "Nueron.md",
     "Sigmoid.md",
     "Serverless.md",
@@ -236,16 +252,10 @@
     "Vertical Scaling.md",
     "Server Performance Metrics.md",
     "Pasted image 20250920125102.png",
-    "Opensearch.md",
-    "Object Storage.md",
-    "Loss Function.md",
     "Load Balancing.md",
     "Linear Regression.md",
     "Infrastructure as Code.md",
     "Global Minimum.md",
-    "Event Driven Architecture.md",
-    "Durability.md",
-    "Cost Function.md",
     "Pasted image 20250920094111.png",
     "Untitled 1",
     "Binary Classification"
