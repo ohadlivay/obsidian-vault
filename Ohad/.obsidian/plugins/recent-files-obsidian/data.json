@@ -1,0 +1,28 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Vectorization",
+      "path": "Vectorization.md"
+    },
+    {
+      "basename": "Event Driven Architecture",
+      "path": "Event Driven Architecture.md"
+    },
+    {
+      "basename": "Canvas Syntax",
+      "path": "Canvas Syntax.canvas"
+    },
+    {
+      "basename": "Logistic Regression",
+      "path": "Logistic Regression.md"
+    },
+    {
+      "basename": "Python Broadcasting",
+      "path": "Python Broadcasting.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

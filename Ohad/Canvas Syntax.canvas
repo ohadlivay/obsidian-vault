@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"6feb3d33d9b991da","type":"group","x":-520,"y":-840,"width":1760,"height":980,"label":"AI"},
+		{"id":"9b99c0eea2b04ebc","type":"text","text":"this is a card, it exists in the canvas only.\n\n$3x=5+2$","x":720,"y":440,"width":321,"height":226},
+		{"id":"77300b37ba1649a6","type":"text","text":"![[Gradient Descent#learn weights]]","x":-200,"y":400,"width":640,"height":400},
+		{"id":"edb3c39c7e848ad4","type":"text","text":"this is also a card, but it is embedded. cant edit. chose only sub part of the node.","x":-550,"y":280,"width":250,"height":195},
+		{"id":"97ede421967870a8","type":"link","url":"https://www.youtube.com/watch?v=HFK3D7zeyTA","x":-1376,"y":-860,"width":760,"height":480},
+		{"id":"ffe6088e913e2788","type":"file","file":"Logistic Regression.md","x":-1376,"y":-200,"width":633,"height":524},
+		{"id":"bba04e63c8038931","type":"file","file":"Nueron.md","x":-500,"y":-280,"width":400,"height":400},
+		{"id":"77fd3cfc2ba5517b","type":"file","file":"Artifical Neural Network.md","x":-100,"y":-840,"width":580,"height":400,"color":"3"}
+	],
+	"edges":[
+		{"id":"47f90368a7e8a96a","fromNode":"bba04e63c8038931","fromSide":"top","toNode":"77fd3cfc2ba5517b","toSide":"bottom","label":"ss"},
+		{"id":"ef3acfbc298dd530","fromNode":"77fd3cfc2ba5517b","fromSide":"right","toNode":"9b99c0eea2b04ebc","toSide":"left"},
+		{"id":"b91e8eb5ee5fbbb1","fromNode":"ffe6088e913e2788","fromSide":"right","toNode":"6feb3d33d9b991da","toSide":"left"},
+		{"id":"b38c865c96c75572","fromNode":"edb3c39c7e848ad4","fromSide":"bottom","toNode":"77300b37ba1649a6","toSide":"left"}
+	]
+}

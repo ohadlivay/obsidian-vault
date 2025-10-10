@@ -24,9 +24,20 @@ which is a valid probability: $0\leq\hat{y}=\sigma(P(y=1|X))\leq1$
 
 [[Cost Function]]
 
-### Implementing [[Gradient Descent]] for [[Logistic Regression]]:
+### Implementing of [[Logistic Regression]] using [[Gradient Descent]]:
 ![[Pasted image 20251009190346.png]]
 
-importantly we get that $dZ=a-y$
+importantly we get that $dZ=a-y$ 
 and $dW_{1}=X_{1}*dZ$, $dW_{2}=X_{2}*dZ$, $db=dZ$
 
+#### Code:
+for iter in range(1000):
+	Z=np.dot(W.T,X)+b //compute score of all m examples
+	A=sigmoid(Z) //apply sigmoid on all scores
+	dZ=A-Y // deriviative of loss wrt Z is prediction minus label
+	dW=$\frac{1}{m}$np.dot(X,Z.T) // average gradient for best loss 
+	db=$\frac{1}{m}$np.sum(dZ) // find average of residuals
+	W=W-$\alpha dW$ // update weights
+	b=b-$\alpha db$ //update bias
+
+Speed-ups are possible with [[Vectorization]], [[Python Broadcasting]], etc..
