@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b12af58c9033a1",
+        "id": "b87a6c4cad896af7",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba6995f08a61e4d",
+            "id": "b72da263b69ae386",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Logistic Regression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Logistic Regression"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "broadc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +94,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Classification/Logistic Regression.md",
+                "file": "Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Classification/Logistic Regression.md",
+                "file": "Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -167,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,15 +199,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ba6995f08a61e4d",
+  "active": "b72da263b69ae386",
   "lastOpenFiles": [
+    "Python Broadcasting.md",
+    "Logistic Regression.md",
+    "Cost Function.md",
+    "שנה ג.canvas",
+    "NumPy.md",
+    "Deep Learning Course Lecture 1.md",
+    "Canvas Syntax.canvas",
+    "2025-10-10.md",
+    "Cloud Computing.md",
     "Vectorization.md",
     "Event Driven Architecture.md",
-    "Canvas Syntax.canvas",
-    "Python Broadcasting.md",
-    "NumPy.md",
     "Gradient Descent.md",
-    "Logistic Regression.md",
     "Pasted image 20251010103902.png",
     "Back Propogration.md",
     "Deriviative.md",
@@ -200,16 +220,13 @@
     "MSE.md",
     "Untitled 1.md",
     "Artifical Neural Network.md",
-    "2025-10-10.md",
     "Untitled 1.canvas",
     "Cloud Networks.md",
-    "Cloud Computing.md",
     "Loss Function.md",
     "Serverless.md",
     "Computation Graph.md",
     "Opensearch.md",
     "Object Storage.md",
-    "Cost Function.md",
     "Pasted image 20251009190346.png",
     "Pasted image 20251009183121.png",
     "Pasted image 20251009182943.png",
@@ -218,8 +235,6 @@
     "Scaling.md",
     "Horizontal Scaling.md",
     "Nueron.md",
-    "Sigmoid.md",
-    "Maximum Likelihood.md",
     "Pasted image 20250920125102.png",
     "Pasted image 20250920094111.png",
     "Untitled 1",

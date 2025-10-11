@@ -20,6 +20,19 @@ so we apply the [[Sigmoid]] function
 and now we have our output $\hat{y}=\sigma(P(y=1|X)$
 which is a valid probability: $0\leq\hat{y}=\sigma(P(y=1|X))\leq1$
 
+This basically means that
+if $y=1$ then $P(Y|X)=\hat{y}$
+if $y=0$ then $P(Y|X)=1-\hat{y}$
+
+or in other words, if the image is a cat, the probability given by our model would be $\hat{y}$. if its not a cat, the probability of our model would be $1-\hat{y}$
+
+these two equations can be summarized as:
+$P(Y|X)=\hat{y}^y(1-\hat{y})^{(1-y)}$
+also called the Bernoulli likelihood
+because if $y=1$ then $\hat{y}^1(1-\hat{y})^{0}=\hat{y}$
+and if $y=0$ then $\hat{y}^0(1-\hat{y})^1=1-\hat{y}$
+
+
 [[Loss Function]]
 
 [[Cost Function]]
