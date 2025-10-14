@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c844c2cf41cddf5",
+        "id": "8fe9bfe9f7d511ba",
         "type": "tabs",
         "children": [
           {
-            "id": "db87582a53c7d9ef",
+            "id": "4774ffa20812b98f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Serverless"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mytodo/empty",
+                "query": "network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,13 +149,13 @@
             }
           },
           {
-            "id": "6434b88209508f94",
+            "id": "1accd6e2d8ac5c52",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "empty",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -190,8 +176,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "db87582a53c7d9ef",
+  "active": "4774ffa20812b98f",
   "lastOpenFiles": [
+    "Kaltura.md",
+    "Customers.md",
+    "Kaltura Browser.md",
+    "opsgenie.md",
+    "Cloud computing.md",
+    "Container.md",
+    "linear regression.md",
     "Scaling.md",
     "Cloud Computing.md",
     "Logistic Regression.md",
@@ -212,13 +205,6 @@
     "Cost Function.md",
     "Database Storage.md",
     "Convex Optimization.md",
-    "Container.md",
-    "Availability.md",
-    "Horizontal Scaling.md",
-    "Storage.md",
-    "Block storage.md",
-    "Container Orchestration.md",
-    "Serverless.md",
     "Pasted image 20250920094111.png",
     "Untitled 1",
     "Binary Classification"

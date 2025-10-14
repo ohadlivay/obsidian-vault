@@ -1,0 +1,1 @@
+Opsgenie is an **incident management and alerting platform** that helps teams respond quickly to critical issues by centralizing alerts, automating on-call scheduling, and integrating with monitoring and collaboration tools.
