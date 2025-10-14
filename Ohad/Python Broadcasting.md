@@ -8,13 +8,6 @@ $\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix}+\begin{bmatrix}2 & 2 & 2 \\ 
 
 note that python can only broadcast one of the elements and not both, so adding a (2,3) matrix with a (1,2) matrix is not possible and causes an error.
 ## Syntax:
-
-`a=np.array([[1,2,3],[4,5,6])
-`b=np.array([2,2,2])`
-`'print(a+b)'`
-output:
-`[[3,4,5],`
-`6,7,8]]`
 ![[Pasted image 20251010103902.png]]
 
 

@@ -11,24 +11,10 @@
             "id": "b72da263b69ae386",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logistic Regression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Logistic Regression"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -115,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logistic Regression"
+              "title": "Backlinks"
             }
           },
           {
@@ -134,12 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Logistic Regression"
+              "title": "Outgoing links"
             }
           },
           {
@@ -201,11 +185,13 @@
   },
   "active": "b72da263b69ae386",
   "lastOpenFiles": [
+    "שנה ג.canvas",
     "Python Broadcasting.md",
+    "NumPy.md",
+    "Dot Product.md",
+    "Matrix.md",
     "Logistic Regression.md",
     "Cost Function.md",
-    "שנה ג.canvas",
-    "NumPy.md",
     "Deep Learning Course Lecture 1.md",
     "Canvas Syntax.canvas",
     "2025-10-10.md",
@@ -233,8 +219,6 @@
     "Pasted image 20251009182916.png",
     "Request",
     "Scaling.md",
-    "Horizontal Scaling.md",
-    "Nueron.md",
     "Pasted image 20250920125102.png",
     "Pasted image 20250920094111.png",
     "Untitled 1",
