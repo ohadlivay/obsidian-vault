@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe9bfe9f7d511ba",
+        "id": "b87a6c4cad896af7",
         "type": "tabs",
         "children": [
           {
-            "id": "4774ffa20812b98f",
+            "id": "b72da263b69ae386",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "network",
+                "query": "broadc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,9 +69,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "642d7080daa20cbc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -91,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Classification/Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logistic Regression"
+              "title": "Backlinks"
             }
           },
           {
@@ -110,12 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Classification/Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Logistic Regression"
+              "title": "Outgoing links"
             }
           },
           {
@@ -139,27 +147,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serverless.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Serverless"
+              "title": "Outline"
             }
           },
           {
-            "id": "1accd6e2d8ac5c52",
+            "id": "6434b88209508f94",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,35 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "4774ffa20812b98f",
+  "active": "b72da263b69ae386",
   "lastOpenFiles": [
-    "Kaltura.md",
-    "Customers.md",
-    "Kaltura Browser.md",
-    "opsgenie.md",
-    "Cloud computing.md",
-    "Container.md",
-    "linear regression.md",
-    "Scaling.md",
-    "Cloud Computing.md",
+    "שנה ג.canvas",
+    "Python Broadcasting.md",
+    "NumPy.md",
+    "Dot Product.md",
+    "Matrix.md",
     "Logistic Regression.md",
-    "Maximum Likelihood.md",
+    "Cost Function.md",
+    "Deep Learning Course Lecture 1.md",
+    "Canvas Syntax.canvas",
+    "2025-10-10.md",
+    "Cloud Computing.md",
+    "Vectorization.md",
+    "Event Driven Architecture.md",
+    "Gradient Descent.md",
+    "Pasted image 20251010103902.png",
+    "Back Propogration.md",
+    "Deriviative.md",
+    "Request/Response Architecture.md",
+    "MSE.md",
+    "Untitled 1.md",
+    "Artifical Neural Network.md",
+    "Untitled 1.canvas",
     "Cloud Networks.md",
-    "Vertical Scaling.md",
-    "Server Performance Metrics.md",
-    "Pasted image 20250920125102.png",
+    "Loss Function.md",
+    "Serverless.md",
+    "Computation Graph.md",
     "Opensearch.md",
     "Object Storage.md",
-    "Loss Function.md",
-    "Load Balancing.md",
-    "Linear Regression.md",
-    "Infrastructure as Code.md",
-    "Global Minimum.md",
-    "Event Driven Architecture.md",
-    "Durability.md",
-    "Cost Function.md",
-    "Database Storage.md",
-    "Convex Optimization.md",
+    "Pasted image 20251009190346.png",
+    "Pasted image 20251009183121.png",
+    "Pasted image 20251009182943.png",
+    "Pasted image 20251009182916.png",
+    "Request",
+    "Scaling.md",
+    "Pasted image 20250920125102.png",
     "Pasted image 20250920094111.png",
     "Untitled 1",
     "Binary Classification"

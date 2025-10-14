@@ -1,0 +1,1 @@
+The algorithm to update the weights using [[Gradient Descent]] and [[Vectorization]].
