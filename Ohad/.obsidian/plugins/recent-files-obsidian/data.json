@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "שנה ג",
-      "path": "שנה ג.canvas"
+      "basename": "Node",
+      "path": "Node.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
+      "basename": "Shard",
+      "path": "Shard.md"
+    },
+    {
+      "basename": "Matrix",
+      "path": "Matrix.md"
+    },
+    {
+      "basename": "ElasticSearch",
+      "path": "ElasticSearch.md"
+    },
+    {
+      "basename": "Cluster",
+      "path": "Cluster.md"
     },
     {
       "basename": "Python Broadcasting",
       "path": "Python Broadcasting.md"
+    },
+    {
+      "basename": "שנה ג",
+      "path": "שנה ג.canvas"
     },
     {
       "basename": "NumPy",
@@ -15,10 +39,6 @@
     {
       "basename": "Dot Product",
       "path": "Dot Product.md"
-    },
-    {
-      "basename": "Matrix",
-      "path": "Matrix.md"
     },
     {
       "basename": "Logistic Regression",

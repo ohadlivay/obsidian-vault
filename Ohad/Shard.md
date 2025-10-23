@@ -1,0 +1,1 @@
+A self contained Lucene index

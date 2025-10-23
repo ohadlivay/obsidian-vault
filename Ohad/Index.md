@@ -1,0 +1,1 @@
+An ES Index is a grouping of one or more physical [[Shard|shards]]. 
