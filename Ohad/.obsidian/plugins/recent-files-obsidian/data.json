@@ -1,40 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "Version control & Github",
-      "path": "Version control & Github.md"
+      "basename": "Business Intelligence and Data Warehousing",
+      "path": "Business Intelligence and Data Warehousing.md"
+    },
+    {
+      "basename": "Business Intelligence",
+      "path": "Business Intelligence.md"
+    },
+    {
+      "basename": "KPI",
+      "path": "KPI.md"
+    },
+    {
+      "basename": "Leading and lagging indicators",
+      "path": "Leading and lagging indicators.md"
+    },
+    {
+      "basename": "Organizational Measuring",
+      "path": "Organizational Measuring.md"
+    },
+    {
+      "basename": "BIDW Final Test",
+      "path": "BIDW Final Test.md"
+    },
+    {
+      "basename": "Tokenization and Segmentation",
+      "path": "Tokenization and Segmentation.md"
+    },
+    {
+      "basename": "ETL",
+      "path": "ETL.md"
+    },
+    {
+      "basename": "Data Warehouse",
+      "path": "Data Warehouse.md"
+    },
+    {
+      "basename": "Data",
+      "path": "Data.md"
+    },
+    {
+      "basename": "Information",
+      "path": "Information.md"
+    },
+    {
+      "basename": "BIDW Final Project",
+      "path": "BIDW Final Project.md"
+    },
+    {
+      "basename": "ngrams",
+      "path": "ngrams.md"
+    },
+    {
+      "basename": "Bag of Words",
+      "path": "Bag of Words.md"
+    },
+    {
+      "basename": "Lemmatization",
+      "path": "Lemmatization.md"
+    },
+    {
+      "basename": "Information Retrieval",
+      "path": "Information Retrieval.md"
+    },
+    {
+      "basename": "Stemming",
+      "path": "Stemming.md"
+    },
+    {
+      "basename": "Tokenization",
+      "path": "Tokenization.md"
+    },
+    {
+      "basename": "Word",
+      "path": "Word.md"
     },
     {
       "basename": "Acceptance Test",
       "path": "Acceptance Test.md"
     },
     {
-      "basename": "Unit Testing",
-      "path": "Unit Testing.md"
+      "basename": "User storie",
+      "path": "User storie.md"
     },
     {
       "basename": "Agile",
       "path": "Agile.md"
     },
     {
-      "basename": "Test driven development",
-      "path": "Test driven development.md"
-    },
-    {
-      "basename": "Continuous Integration",
-      "path": "Continuous Integration.md"
-    },
-    {
-      "basename": "User storie",
-      "path": "User storie.md"
-    },
-    {
-      "basename": "Software Engineering and Quality Assurance",
-      "path": "Software Engineering and Quality Assurance.md"
-    },
-    {
-      "basename": "Waterfall",
-      "path": "Waterfall.md"
+      "basename": "Version control & Github",
+      "path": "Version control & Github.md"
     },
     {
       "basename": "Untitled 1",
@@ -43,6 +99,26 @@
     {
       "basename": "SWEQA Project",
       "path": "SWEQA Project.md"
+    },
+    {
+      "basename": "Unit Testing",
+      "path": "Unit Testing.md"
+    },
+    {
+      "basename": "Continuous Integration",
+      "path": "Continuous Integration.md"
+    },
+    {
+      "basename": "Software Engineering and Quality Assurance",
+      "path": "Software Engineering and Quality Assurance.md"
+    },
+    {
+      "basename": "Test driven development",
+      "path": "Test driven development.md"
+    },
+    {
+      "basename": "Waterfall",
+      "path": "Waterfall.md"
     },
     {
       "basename": "Python Broadcasting",
@@ -123,46 +199,6 @@
     {
       "basename": "Matrix",
       "path": "Matrix.md"
-    },
-    {
-      "basename": "ElasticSearch",
-      "path": "ElasticSearch.md"
-    },
-    {
-      "basename": "Cluster",
-      "path": "Cluster.md"
-    },
-    {
-      "basename": "שנה ג",
-      "path": "שנה ג.canvas"
-    },
-    {
-      "basename": "NumPy",
-      "path": "NumPy.md"
-    },
-    {
-      "basename": "Cost Function",
-      "path": "Cost Function.md"
-    },
-    {
-      "basename": "Deep Learning Course Lecture 1",
-      "path": "Deep Learning Course Lecture 1.md"
-    },
-    {
-      "basename": "Canvas Syntax",
-      "path": "Canvas Syntax.canvas"
-    },
-    {
-      "basename": "Cloud Computing",
-      "path": "Cloud Computing.md"
-    },
-    {
-      "basename": "Vectorization",
-      "path": "Vectorization.md"
-    },
-    {
-      "basename": "Event Driven Architecture",
-      "path": "Event Driven Architecture.md"
     }
   ],
   "omittedPaths": [],

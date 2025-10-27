@@ -36,3 +36,6 @@ increasingly, systems are required to operate in different environments (OS, mob
 software needs to adapt to social norms and societal rules and be specific or customized to fit different social groups.
 ### Security and trust
 software integrates with different dependencies, so security guarantees are needed. 
+
+
+[[Version control & Github]]

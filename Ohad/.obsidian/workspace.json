@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b87a6c4cad896af7",
+        "id": "121e04dfba90d427",
         "type": "tabs",
         "children": [
           {
-            "id": "0e39cd777f6e342b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "16c465bd6728a2ab",
+            "id": "984153f2eaa92c09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceptance Test.md",
+                "file": "Business Intelligence and Data Warehousing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Acceptance Test"
+              "title": "Business Intelligence and Data Warehousing"
             }
           },
           {
-            "id": "aa355a39f0fb1d9f",
+            "id": "7ba3ef9b53e3236c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuous Integration.md",
+                "file": "Leading and lagging indicators.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,107 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Continuous Integration"
-            }
-          },
-          {
-            "id": "576e64188d33d2ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Testing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unit Testing"
-            }
-          },
-          {
-            "id": "5510f31b906cbb2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Version control & Github.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Version control & Github"
-            }
-          },
-          {
-            "id": "62ed9c37a50111e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWEQA Project.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SWEQA Project"
-            }
-          },
-          {
-            "id": "7aad13c142700535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Leading and lagging indicators"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +118,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -339,34 +231,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "5510f31b906cbb2e",
+  "active": "984153f2eaa92c09",
   "lastOpenFiles": [
+    "Business Intelligence.md",
+    "Business Intelligence and Data Warehousing.md",
+    "KPI.md",
+    "Leading and lagging indicators.md",
+    "Organizational Measuring.md",
+    "Pasted image 20251027191028.png",
+    "BIDW Final Test.md",
+    "Tokenization and Segmentation.md",
+    "ETL.md",
+    "Data Warehouse.md",
+    "Pasted image 20251027180842.png",
+    "Data.md",
+    "Information.md",
+    "Pasted image 20251027175704.png",
+    "Pasted image 20251027175622.png",
+    "BIDW Final Project.md",
+    "ngrams.md",
+    "Bag of Words.md",
+    "Lemmatization.md",
+    "Information Retrieval.md",
+    "Stemming.md",
+    "Tokenization",
+    "Tokenization.md",
+    "Word.md",
+    "node1.md",
     "Acceptance Test.md",
-    "Unit Testing.md",
-    "Version control & Github.md",
-    "Agile.md",
-    "Test driven development.md",
-    "Continuous Integration.md",
     "User storie.md",
-    "Software Engineering and Quality Assurance.md",
-    "Waterfall.md",
+    "Agile.md",
+    "Version control & Github.md",
     "Untitled 1.md",
     "SWEQA Project.md",
-    "Python Broadcasting.md",
-    "PyTorch.md",
-    "Matrix Multiplication.md",
-    "Python.md",
-    "Deep Learning.md",
-    "Loss function.md",
-    "Logistic Regression.md",
-    "Artifical Neural Network.md",
-    "Cloud computing.md",
-    "tanh.md",
-    "Sigmoid.md",
-    "Perceptron.md",
-    "Fine-tuning.md",
-    "Machine Learning.md",
-    "LogzIO guidlines.md",
     "שנה ג.canvas",
     "Canvas Syntax.canvas",
     "Pasted image 20251010103902.png",
@@ -377,7 +274,6 @@
     "Pasted image 20251009182916.png",
     "Request",
     "Pasted image 20250920125102.png",
-    "Pasted image 20250920094111.png",
     "Untitled 1",
     "Binary Classification"
   ]
