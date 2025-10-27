@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Software Engineering and Quality Assurance",
+      "path": "Software Engineering and Quality Assurance.md"
+    },
+    {
+      "basename": "Python Broadcasting",
+      "path": "Python Broadcasting.md"
+    },
+    {
+      "basename": "PyTorch",
+      "path": "PyTorch.md"
+    },
+    {
+      "basename": "Matrix Multiplication",
+      "path": "Matrix Multiplication.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Python.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Loss function",
+      "path": "Loss function.md"
+    },
+    {
+      "basename": "Logistic Regression",
+      "path": "Logistic Regression.md"
+    },
+    {
+      "basename": "Artifical Neural Network",
+      "path": "Artifical Neural Network.md"
+    },
+    {
+      "basename": "Cloud computing",
+      "path": "Cloud computing.md"
+    },
+    {
+      "basename": "tanh",
+      "path": "tanh.md"
+    },
+    {
+      "basename": "Sigmoid",
+      "path": "Sigmoid.md"
+    },
+    {
+      "basename": "Perceptron",
+      "path": "Perceptron.md"
+    },
+    {
+      "basename": "Fine-tuning",
+      "path": "Fine-tuning.md"
+    },
+    {
+      "basename": "Machine Learning",
+      "path": "Machine Learning.md"
+    },
+    {
       "basename": "LogzIO guidlines",
       "path": "LogzIO guidlines.md"
     },
@@ -33,24 +93,12 @@
       "path": "Cluster.md"
     },
     {
-      "basename": "Python Broadcasting",
-      "path": "Python Broadcasting.md"
-    },
-    {
       "basename": "שנה ג",
       "path": "שנה ג.canvas"
     },
     {
       "basename": "NumPy",
       "path": "NumPy.md"
-    },
-    {
-      "basename": "Dot Product",
-      "path": "Dot Product.md"
-    },
-    {
-      "basename": "Logistic Regression",
-      "path": "Logistic Regression.md"
     },
     {
       "basename": "Cost Function",

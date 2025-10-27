@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "b2a5578a3fa68d75",
+            "id": "16c465bd6728a2ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LogzIO guidlines.md",
+                "file": "Software Engineering and Quality Assurance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LogzIO guidlines"
+              "title": "Software Engineering and Quality Assurance"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "broadc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,8 +243,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2a5578a3fa68d75",
+  "active": "16c465bd6728a2ab",
   "lastOpenFiles": [
+    "Python Broadcasting.md",
+    "Software Engineering and Quality Assurance.md",
+    "PyTorch.md",
+    "Matrix Multiplication.md",
+    "Python.md",
+    "Deep Learning.md",
+    "Loss function.md",
+    "Logistic Regression.md",
+    "Artifical Neural Network.md",
+    "Cloud computing.md",
+    "tanh.md",
+    "Sigmoid.md",
+    "Perceptron.md",
+    "Fine-tuning.md",
+    "Machine Learning.md",
     "LogzIO guidlines.md",
     "Database Storage.md",
     "Node.md",
@@ -252,28 +268,13 @@
     "Matrix.md",
     "ElasticSearch.md",
     "Cluster.md",
-    "Python Broadcasting.md",
     "שנה ג.canvas",
     "NumPy.md",
-    "Dot Product.md",
-    "Logistic Regression.md",
     "Cost Function.md",
     "Deep Learning Course Lecture 1.md",
     "Canvas Syntax.canvas",
-    "2025-10-10.md",
-    "Cloud Computing.md",
-    "Vectorization.md",
-    "Event Driven Architecture.md",
-    "Gradient Descent.md",
     "Pasted image 20251010103902.png",
-    "Back Propogration.md",
-    "Deriviative.md",
-    "Request/Response Architecture.md",
-    "MSE.md",
-    "Untitled 1.md",
-    "Artifical Neural Network.md",
     "Untitled 1.canvas",
-    "Cloud Networks.md",
     "Pasted image 20251009190346.png",
     "Pasted image 20251009183121.png",
     "Pasted image 20251009182943.png",

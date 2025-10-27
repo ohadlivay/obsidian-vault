@@ -10,7 +10,7 @@ $\hat{y}$ is the predicted value. $y$ is the actual value.
 in this case, $y\in{\{ 0,1 \}}$ 
 
 If we simply fit a line through the data, using linear regression, we get
-$\hat{y}=W^TX+b$  // [[Dot Product]]
+$\hat{y}=W^TX+b$  // [[Matrix Multiplication]]
 $W\in \mathbb{R}^{n_{x}}$ is the set of weights we learn
 $b\in \mathbb{R}$ is the bias we learn
 

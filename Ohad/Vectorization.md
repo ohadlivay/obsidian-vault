@@ -1,4 +1,4 @@
-The skill of replacing a [[For Loop]] with a vector operation (like [[Dot Product]]). this is used to speed up calculations such as [[Back Propogration]], since [[For Loop]]s are slow as they are sequential and custom commands such as [[Dot Product]] in [[NumPy]] can use parallel computation and less overhead.
+The skill of replacing a [[For Loop]] with a vector operation (like [[Matrix Multiplication]]). this is used to speed up calculations such as [[Back Propogration]], since [[For Loop]]s are slow as they are sequential and custom commands such as [[Matrix Multiplication]] in [[NumPy]] can use parallel computation and less overhead.
 
 $Z=W^TX+b$
 where $X$ and $W\in R^n$
