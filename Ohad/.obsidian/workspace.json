@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b72da263b69ae386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Matrix"
-            }
-          },
-          {
             "id": "0e39cd777f6e342b",
             "type": "leaf",
             "state": {
@@ -47,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering and Quality Assurance.md",
+                "file": "Acceptance Test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +38,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Software Engineering and Quality Assurance"
+              "title": "Acceptance Test"
+            }
+          },
+          {
+            "id": "aa355a39f0fb1d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuous Integration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Continuous Integration"
+            }
+          },
+          {
+            "id": "576e64188d33d2ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit Testing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Unit Testing"
+            }
+          },
+          {
+            "id": "5510f31b906cbb2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Version control & Github.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Version control & Github"
+            }
+          },
+          {
+            "id": "62ed9c37a50111e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWEQA Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SWEQA Project"
+            }
+          },
+          {
+            "id": "7aad13c142700535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -243,10 +339,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "16c465bd6728a2ab",
+  "active": "5510f31b906cbb2e",
   "lastOpenFiles": [
-    "Python Broadcasting.md",
+    "Acceptance Test.md",
+    "Unit Testing.md",
+    "Version control & Github.md",
+    "Agile.md",
+    "Test driven development.md",
+    "Continuous Integration.md",
+    "User storie.md",
     "Software Engineering and Quality Assurance.md",
+    "Waterfall.md",
+    "Untitled 1.md",
+    "SWEQA Project.md",
+    "Python Broadcasting.md",
     "PyTorch.md",
     "Matrix Multiplication.md",
     "Python.md",
@@ -261,17 +367,7 @@
     "Fine-tuning.md",
     "Machine Learning.md",
     "LogzIO guidlines.md",
-    "Database Storage.md",
-    "Node.md",
-    "Index.md",
-    "Shard.md",
-    "Matrix.md",
-    "ElasticSearch.md",
-    "Cluster.md",
     "שנה ג.canvas",
-    "NumPy.md",
-    "Cost Function.md",
-    "Deep Learning Course Lecture 1.md",
     "Canvas Syntax.canvas",
     "Pasted image 20251010103902.png",
     "Untitled 1.canvas",

@@ -1,0 +1,1 @@
+a way to supervise all tests and integrations with warnings per failures.
