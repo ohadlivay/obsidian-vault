@@ -1,4 +1,4 @@
-add more cpu, cores, memory, disk space, network throughput. this means scaling the instance. 
+add more cpu, cores, memory, disk space, network throughput. this means scaling the capabilities of a specific machine.
 
 NEGATIVE: 
 - hardware doesnt scale to price

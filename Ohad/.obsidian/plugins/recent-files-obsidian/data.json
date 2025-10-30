@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Big Data",
+      "path": "Big Data.md"
+    },
+    {
+      "basename": "Scaling",
+      "path": "Scaling.md"
+    },
+    {
+      "basename": "horizontal scaling",
+      "path": "horizontal scaling.md"
+    },
+    {
+      "basename": "vertical scaling",
+      "path": "vertical scaling.md"
+    },
+    {
+      "basename": "Semester 5",
+      "path": "Semester 5.md"
+    },
+    {
       "basename": "Business Intelligence and Data Warehousing",
       "path": "Business Intelligence and Data Warehousing.md"
+    },
+    {
+      "basename": "Computation Graph",
+      "path": "Computation Graph.md"
+    },
+    {
+      "basename": "tanh",
+      "path": "tanh.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Leading and lagging indicators",
+      "path": "Leading and lagging indicators.md"
     },
     {
       "basename": "Business Intelligence",
@@ -11,10 +47,6 @@
     {
       "basename": "KPI",
       "path": "KPI.md"
-    },
-    {
-      "basename": "Leading and lagging indicators",
-      "path": "Leading and lagging indicators.md"
     },
     {
       "basename": "Organizational Measuring",
@@ -93,10 +125,6 @@
       "path": "Version control & Github.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
       "basename": "SWEQA Project",
       "path": "SWEQA Project.md"
     },
@@ -137,10 +165,6 @@
       "path": "Python.md"
     },
     {
-      "basename": "Deep Learning",
-      "path": "Deep Learning.md"
-    },
-    {
       "basename": "Loss function",
       "path": "Loss function.md"
     },
@@ -155,10 +179,6 @@
     {
       "basename": "Cloud computing",
       "path": "Cloud computing.md"
-    },
-    {
-      "basename": "tanh",
-      "path": "tanh.md"
     },
     {
       "basename": "Sigmoid",
@@ -179,26 +199,6 @@
     {
       "basename": "LogzIO guidlines",
       "path": "LogzIO guidlines.md"
-    },
-    {
-      "basename": "Database Storage",
-      "path": "Database Storage.md"
-    },
-    {
-      "basename": "Node",
-      "path": "Node.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
-    },
-    {
-      "basename": "Shard",
-      "path": "Shard.md"
-    },
-    {
-      "basename": "Matrix",
-      "path": "Matrix.md"
     }
   ],
   "omittedPaths": [],

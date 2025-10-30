@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "121e04dfba90d427",
+        "id": "0d6455b3974c5f16",
         "type": "tabs",
         "children": [
           {
-            "id": "984153f2eaa92c09",
+            "id": "d98922e92ea42abf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Intelligence and Data Warehousing.md",
+                "file": "Big Data.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Business Intelligence and Data Warehousing"
-            }
-          },
-          {
-            "id": "7ba3ef9b53e3236c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading and lagging indicators.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Leading and lagging indicators"
+              "title": "Big Data"
             }
           }
         ]
@@ -231,12 +207,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "984153f2eaa92c09",
+  "active": "d98922e92ea42abf",
   "lastOpenFiles": [
-    "Business Intelligence.md",
+    "Scaling.md",
+    "horizontal scaling.md",
+    "Big Data.md",
+    "vertical scaling.md",
+    "Pasted image 20251028191124.png",
+    "Pasted image 20251028191037.png",
+    "Pasted image 20251028190652.png",
+    "Pasted image 20251028184324.png",
+    "Semester 5.md",
     "Business Intelligence and Data Warehousing.md",
-    "KPI.md",
+    "Computation Graph.md",
+    "tanh.md",
+    "Deep Learning Course Lecture 1.md",
+    "Deep Learning.md",
     "Leading and lagging indicators.md",
+    "Business Intelligence.md",
+    "KPI.md",
     "Organizational Measuring.md",
     "Pasted image 20251027191028.png",
     "BIDW Final Test.md",
@@ -255,25 +244,12 @@
     "Information Retrieval.md",
     "Stemming.md",
     "Tokenization",
-    "Tokenization.md",
-    "Word.md",
-    "node1.md",
-    "Acceptance Test.md",
-    "User storie.md",
-    "Agile.md",
-    "Version control & Github.md",
-    "Untitled 1.md",
-    "SWEQA Project.md",
     "שנה ג.canvas",
     "Canvas Syntax.canvas",
     "Pasted image 20251010103902.png",
     "Untitled 1.canvas",
     "Pasted image 20251009190346.png",
-    "Pasted image 20251009183121.png",
-    "Pasted image 20251009182943.png",
-    "Pasted image 20251009182916.png",
     "Request",
-    "Pasted image 20250920125102.png",
     "Untitled 1",
     "Binary Classification"
   ]
