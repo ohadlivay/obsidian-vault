@@ -11,8 +11,6 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": [
-    "#mytodo/empty"
-  ],
+  "_collapsedSections": [],
   "_hiddenTags": []
 }

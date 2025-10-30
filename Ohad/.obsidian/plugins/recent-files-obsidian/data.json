@@ -1,12 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Business Intelligence",
+      "path": "Business Intelligence.md"
+    },
+    {
+      "basename": "Business Intelligence and Data Warehousing",
+      "path": "Business Intelligence and Data Warehousing.md"
+    },
+    {
+      "basename": "KPI",
+      "path": "KPI.md"
+    },
+    {
+      "basename": "Translational Invariance",
+      "path": "Translational Invariance.md"
+    },
+    {
+      "basename": "Logz guidlines",
+      "path": "Logz guidlines.md"
+    },
+    {
+      "basename": "Graph Neural Networks",
+      "path": "Graph Neural Networks.md"
+    },
+    {
       "basename": "Big Data",
       "path": "Big Data.md"
     },
     {
+      "basename": "Leading and lagging indicators",
+      "path": "Leading and lagging indicators.md"
+    },
+    {
+      "basename": "Information",
+      "path": "Information.md"
+    },
+    {
       "basename": "Scaling",
       "path": "Scaling.md"
+    },
+    {
+      "basename": "Cloud Computing",
+      "path": "Cloud Computing.md"
+    },
+    {
+      "basename": "Bag of Words",
+      "path": "Bag of Words.md"
+    },
+    {
+      "basename": "Corpus",
+      "path": "Corpus.md"
+    },
+    {
+      "basename": "Information Retrieval",
+      "path": "Information Retrieval.md"
+    },
+    {
+      "basename": "Semester 5",
+      "path": "Semester 5.md"
+    },
+    {
+      "basename": "Software Engineering and Quality Assurance",
+      "path": "Software Engineering and Quality Assurance.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Data",
+      "path": "Data.md"
+    },
+    {
+      "basename": "Activation function",
+      "path": "Activation function.md"
+    },
+    {
+      "basename": "Perceptron",
+      "path": "Perceptron.md"
+    },
+    {
+      "basename": "tanh",
+      "path": "tanh.md"
     },
     {
       "basename": "horizontal scaling",
@@ -17,36 +93,8 @@
       "path": "vertical scaling.md"
     },
     {
-      "basename": "Semester 5",
-      "path": "Semester 5.md"
-    },
-    {
-      "basename": "Business Intelligence and Data Warehousing",
-      "path": "Business Intelligence and Data Warehousing.md"
-    },
-    {
       "basename": "Computation Graph",
       "path": "Computation Graph.md"
-    },
-    {
-      "basename": "tanh",
-      "path": "tanh.md"
-    },
-    {
-      "basename": "Deep Learning",
-      "path": "Deep Learning.md"
-    },
-    {
-      "basename": "Leading and lagging indicators",
-      "path": "Leading and lagging indicators.md"
-    },
-    {
-      "basename": "Business Intelligence",
-      "path": "Business Intelligence.md"
-    },
-    {
-      "basename": "KPI",
-      "path": "KPI.md"
     },
     {
       "basename": "Organizational Measuring",
@@ -69,14 +117,6 @@
       "path": "Data Warehouse.md"
     },
     {
-      "basename": "Data",
-      "path": "Data.md"
-    },
-    {
-      "basename": "Information",
-      "path": "Information.md"
-    },
-    {
       "basename": "BIDW Final Project",
       "path": "BIDW Final Project.md"
     },
@@ -85,16 +125,8 @@
       "path": "ngrams.md"
     },
     {
-      "basename": "Bag of Words",
-      "path": "Bag of Words.md"
-    },
-    {
       "basename": "Lemmatization",
       "path": "Lemmatization.md"
-    },
-    {
-      "basename": "Information Retrieval",
-      "path": "Information Retrieval.md"
     },
     {
       "basename": "Stemming",
@@ -137,10 +169,6 @@
       "path": "Continuous Integration.md"
     },
     {
-      "basename": "Software Engineering and Quality Assurance",
-      "path": "Software Engineering and Quality Assurance.md"
-    },
-    {
       "basename": "Test driven development",
       "path": "Test driven development.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Logistic Regression",
       "path": "Logistic Regression.md"
-    },
-    {
-      "basename": "Artifical Neural Network",
-      "path": "Artifical Neural Network.md"
-    },
-    {
-      "basename": "Cloud computing",
-      "path": "Cloud computing.md"
-    },
-    {
-      "basename": "Sigmoid",
-      "path": "Sigmoid.md"
-    },
-    {
-      "basename": "Perceptron",
-      "path": "Perceptron.md"
-    },
-    {
-      "basename": "Fine-tuning",
-      "path": "Fine-tuning.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Machine Learning.md"
-    },
-    {
-      "basename": "LogzIO guidlines",
-      "path": "LogzIO guidlines.md"
     }
   ],
   "omittedPaths": [],
