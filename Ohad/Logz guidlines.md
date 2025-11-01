@@ -7,4 +7,5 @@ bumping helps with:
 Metric for offending account detection:
 - Document Indexing Rate Per Shard.
 
-[[Lag problems]]
+Stuck node or hotspot
+* copy node name and find that node in the 'Account Shipping Rate by Node / Shard' metric. 

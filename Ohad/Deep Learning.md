@@ -16,6 +16,5 @@ a subcategory of [[Machine Learning]], with the goal of simulating intelligence.
 
 ### 
 State of the art DL models can use [[Fine-tuning]]. 
-
 ### Project
 Amongst a published list of papers, implement a net. also - suggest improvements and see if they improve it.

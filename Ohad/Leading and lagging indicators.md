@@ -1,6 +1,5 @@
 # Leading
-an indicator to **predict the future** performance
-
+an indicator to **predict future** performance
 # Lagging
 an indicator to show past performance
 
