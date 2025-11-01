@@ -1,0 +1,1 @@
+A library doing the same thing as [[Logstash]], only with the advantage of being embedded into the [[Log Engines]] and doesnt require another component.

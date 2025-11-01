@@ -1,0 +1,1 @@
+Israeli company that handles logs from different customers, processes them and provides insights and visualizations using AI powered  tools.

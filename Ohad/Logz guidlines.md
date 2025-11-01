@@ -6,3 +6,5 @@ bumping helps with:
 
 Metric for offending account detection:
 - Document Indexing Rate Per Shard.
+
+[[Lag problems]]

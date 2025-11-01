@@ -1,0 +1,2 @@
+LE's for short, are now split into log-parsers and log-indexers.
+Log-parsers are responsible for [[Sawmill]] parsing (?) and enrichment (adding metadata to file before it is indexed) and log-indexers are used for indexing the parsed data into the [[Opensearch]] [[Cluster]]
