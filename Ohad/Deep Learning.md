@@ -1,4 +1,4 @@
-## Deep Learning Lec 1
+# Deep Learning Lec 1
 ### Intro
 #### Technicalities
 Lecturer email: rdror@is.haifa.ac.il
@@ -18,3 +18,32 @@ a subcategory of [[Machine Learning]], with the goal of simulating intelligence.
 State of the art DL models can use [[Fine-tuning]]. 
 ### Project
 Amongst a published list of papers, implement a net. also - suggest improvements and see if they improve it.
+
+# Deep learning Lec 2
+## Recap
+* Perceptron - building block for NN's
+* Define [[Cost function]]
+	* [[Cross Entropy]] for classification
+	* MSE for regression
+* Optimize loss - [[Gradient Descent]]
+* [[Back Propogration]] for updating weights
+## Optimizing [[Gradient Descent]]
+* [[Batch Gradient Descent]]
+* [[Stochastic Gradient Descent]]
+* [[Mini-Batch Gradient Descent]]
+## Terminology
+Iteration - one pass on entire dataset. 
+Epoch - one pass on n samples including forward+backward. (?) rule of thumb: 50.
+## [[Learning rate]]
+
+## [[Hyperparameters]]
+
+## [[Dividing data strategies]]
+
+## [[Grid Search]]
+## Random Search
+## [[Bayesian Search]]
+
+## [[Overfitting]]
+
+[[Regularization]]

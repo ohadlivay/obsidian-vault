@@ -1,3 +1,4 @@
+per sample update. 
 ### learn weights
 Repeat:
 $w:= w-\alpha\frac{dJ(W)}{dW}$

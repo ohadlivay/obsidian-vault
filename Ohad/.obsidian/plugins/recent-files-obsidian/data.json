@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "Loss function",
+      "path": "Loss function.md"
+    },
+    {
+      "basename": "Cost function",
+      "path": "Cost function.md"
+    },
+    {
+      "basename": "Back Propogration",
+      "path": "Back Propogration.md"
+    },
+    {
+      "basename": "Regularization",
+      "path": "Regularization.md"
+    },
+    {
+      "basename": "Overfitting",
+      "path": "Overfitting.md"
+    },
+    {
+      "basename": "Dropout",
+      "path": "Dropout.md"
+    },
+    {
+      "basename": "Batch normalization",
+      "path": "Batch normalization.md"
+    },
+    {
+      "basename": "Standardize",
+      "path": "Standardize.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Cross Entropy",
+      "path": "Cross Entropy.md"
+    },
+    {
+      "basename": "Learning rate",
+      "path": "Learning rate.md"
+    },
+    {
+      "basename": "global minimum",
+      "path": "global minimum.md"
+    },
+    {
+      "basename": "Bayesian Search",
+      "path": "Bayesian Search.md"
+    },
+    {
+      "basename": "Graph Neural Networks",
+      "path": "Graph Neural Networks.md"
+    },
+    {
+      "basename": "Grid Search",
+      "path": "Grid Search.md"
+    },
+    {
+      "basename": "Dividing data strategies",
+      "path": "Dividing data strategies.md"
+    },
+    {
+      "basename": "Hyperparameters",
+      "path": "Hyperparameters.md"
+    },
+    {
+      "basename": "Mini-Batch Gradient Descent",
+      "path": "Mini-Batch Gradient Descent.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "Gradient Descent.md"
+    },
+    {
+      "basename": "Batch Gradient Descent",
+      "path": "Batch Gradient Descent.md"
+    },
+    {
+      "basename": "Stochastic Gradient Descent",
+      "path": "Stochastic Gradient Descent.md"
+    },
+    {
       "basename": "Lag problems",
       "path": "Lag problems.md"
     },
@@ -85,10 +169,6 @@
       "path": "tanh.md"
     },
     {
-      "basename": "Deep Learning",
-      "path": "Deep Learning.md"
-    },
-    {
       "basename": "Leading and lagging indicators",
       "path": "Leading and lagging indicators.md"
     },
@@ -119,86 +199,6 @@
     {
       "basename": "Data Warehouse",
       "path": "Data Warehouse.md"
-    },
-    {
-      "basename": "Data",
-      "path": "Data.md"
-    },
-    {
-      "basename": "Information",
-      "path": "Information.md"
-    },
-    {
-      "basename": "BIDW Final Project",
-      "path": "BIDW Final Project.md"
-    },
-    {
-      "basename": "ngrams",
-      "path": "ngrams.md"
-    },
-    {
-      "basename": "Bag of Words",
-      "path": "Bag of Words.md"
-    },
-    {
-      "basename": "Lemmatization",
-      "path": "Lemmatization.md"
-    },
-    {
-      "basename": "Information Retrieval",
-      "path": "Information Retrieval.md"
-    },
-    {
-      "basename": "Stemming",
-      "path": "Stemming.md"
-    },
-    {
-      "basename": "Tokenization",
-      "path": "Tokenization.md"
-    },
-    {
-      "basename": "Word",
-      "path": "Word.md"
-    },
-    {
-      "basename": "Acceptance Test",
-      "path": "Acceptance Test.md"
-    },
-    {
-      "basename": "User storie",
-      "path": "User storie.md"
-    },
-    {
-      "basename": "Agile",
-      "path": "Agile.md"
-    },
-    {
-      "basename": "Version control & Github",
-      "path": "Version control & Github.md"
-    },
-    {
-      "basename": "SWEQA Project",
-      "path": "SWEQA Project.md"
-    },
-    {
-      "basename": "Unit Testing",
-      "path": "Unit Testing.md"
-    },
-    {
-      "basename": "Continuous Integration",
-      "path": "Continuous Integration.md"
-    },
-    {
-      "basename": "Software Engineering and Quality Assurance",
-      "path": "Software Engineering and Quality Assurance.md"
-    },
-    {
-      "basename": "Test driven development",
-      "path": "Test driven development.md"
-    },
-    {
-      "basename": "Waterfall",
-      "path": "Waterfall.md"
     }
   ],
   "omittedPaths": [],

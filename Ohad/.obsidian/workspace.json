@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lag problems.md",
+                "file": "Loss function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lag problems"
+              "title": "Loss function"
             }
           },
           {
-            "id": "f43828f8a5a0d746",
+            "id": "1a6f32e0acfe0a73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logz Metrics.md",
+                "file": "Dropout.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,127 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Logz Metrics"
+              "title": "Dropout"
+            }
+          },
+          {
+            "id": "cb7730a59bed6a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Standardize.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Standardize"
+            }
+          },
+          {
+            "id": "0c5f93e4133d72b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deep Learning"
+            }
+          },
+          {
+            "id": "4ecaa8444f98b45b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Search.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Search"
+            }
+          },
+          {
+            "id": "3926d70e4ae39cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Search.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Search"
+            }
+          },
+          {
+            "id": "997a5bc44f7c0098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperparameters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hyperparameters"
             }
           }
         ]
@@ -87,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,6 +354,28 @@
   },
   "active": "d98922e92ea42abf",
   "lastOpenFiles": [
+    "Cost function.md",
+    "Back Propogration.md",
+    "Regularization.md",
+    "Overfitting.md",
+    "Dropout.md",
+    "Batch normalization.md",
+    "Standardize.md",
+    "Deep Learning.md",
+    "Cross Entropy.md",
+    "Learning rate.md",
+    "global minimum.md",
+    "Bayesian Search.md",
+    "Graph Neural Networks.md",
+    "Grid Search.md",
+    "Dividing data strategies.md",
+    "Hyperparameters.md",
+    "Mini-Batch Gradient Descent.md",
+    "Loss function.md",
+    "Gradient Descent.md",
+    "Batch Gradient Descent.md",
+    "Stochastic Gradient Descent.md",
+    "Lag problems.md",
     "Translational Invariance.md",
     "Pasted image 20251030173228.png",
     "Pasted image 20251030142941.png",
@@ -242,33 +384,12 @@
     "Pasted image 20251030135619.png",
     "Pasted image 20251030135525.png",
     "Pasted image 20251030135520.png",
-    "Graph Neural Networks.md",
     "Corpus.md",
     "Activation function.md",
     "Hotspot.md",
-    "Lag problems.md",
-    "Logz Metrics.md",
-    "Logz Metrics].md",
-    "Logz.io.md",
-    "Log Engines.md",
-    "Sawmill.md",
-    "Latency Thresholds.md",
-    "Cluster.md",
-    "Node.md",
-    "ElasticSearch.md",
-    "Opensearch.md",
-    "Logz guidlines.md",
-    "Big Data.md",
-    "Scaling.md",
-    "horizontal scaling.md",
-    "vertical scaling.md",
     "Pasted image 20251028191124.png",
     "Pasted image 20251028191037.png",
     "Pasted image 20251028190652.png",
-    "Semester 5.md",
-    "Business Intelligence and Data Warehousing.md",
-    "Computation Graph.md",
-    "tanh.md",
     "Tokenization",
     "שנה ג.canvas",
     "Canvas Syntax.canvas",
