@@ -8,6 +8,12 @@ $1.0 < learningrate < 10^{-6}$
 ## Basic Dynamic methods
 1. Momentum method. 
 	each update takes into account the previous iterations gradient, using a Velocity. like ice skating. 
+	without momentum (normal update)
+	$w_{t+1}=w_{t}-\eta \nabla f(w_{t})$
+	with momentum:efr
+	$v_{t+1}=\rho v_{t}+\nabla f(w_{t})$
+	$w_{t+1}=w_{t}-\eta v_{t+1}$
+	the magic happens as $v$ is a function of past change, practically allow acceleration. 
 2. Nesterov momentum
 	instead of using past information (previous gradients), we will calculate the gradient or the future point we'll land on.
 3. Time-based decay

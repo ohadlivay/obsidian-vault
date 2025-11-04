@@ -8,6 +8,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< Updated upstream
             "id": "0172824e495f7dcf",
             "type": "leaf",
             "state": {
@@ -81,11 +82,18 @@
           },
           {
             "id": "a9536d4011c99ed1",
+=======
+            "id": "0c5f93e4133d72b5",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "MapReduce.md",
+=======
+                "file": "Learning rate.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +108,83 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "MapReduce"
+=======
+              "title": "Learning rate"
+            }
+          },
+          {
+            "id": "4ecaa8444f98b45b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Search.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Search"
+            }
+          },
+          {
+            "id": "3926d70e4ae39cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Search.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Search"
+            }
+          },
+          {
+            "id": "997a5bc44f7c0098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyperparameters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hyperparameters"
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -136,7 +220,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< Updated upstream
                 "query": "hdfs",
+=======
+                "query": "",
+>>>>>>> Stashed changes
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -281,6 +369,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< Updated upstream
   "active": "39c9bf2245cfcb47",
   "lastOpenFiles": [
     "Big Data.md",
@@ -310,6 +399,33 @@
     "Query Processing.md",
     "Software Engineering and Quality Assurance.md",
     "SCRUM.md",
+=======
+  "active": "0c5f93e4133d72b5",
+  "lastOpenFiles": [
+    "Hyperparameters.md",
+    "Learning rate.md",
+    "Deep Learning.md",
+    "Standardize.md",
+    "Loss function.md",
+    "Dropout.md",
+    "Cost function.md",
+    "Back Propogration.md",
+    "Regularization.md",
+    "Overfitting.md",
+    "Batch normalization.md",
+    "Cross Entropy.md",
+    "global minimum.md",
+    "Bayesian Search.md",
+    "Graph Neural Networks.md",
+    "Grid Search.md",
+    "Dividing data strategies.md",
+    "Mini-Batch Gradient Descent.md",
+    "Gradient Descent.md",
+    "Batch Gradient Descent.md",
+    "Stochastic Gradient Descent.md",
+    "Lag problems.md",
+    "Translational Invariance.md",
+>>>>>>> Stashed changes
     "Pasted image 20251030173228.png",
     "Pasted image 20251030142941.png",
     "Pasted image 20251030141236.png",

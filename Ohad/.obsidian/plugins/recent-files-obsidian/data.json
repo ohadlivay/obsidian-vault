@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< Updated upstream
       "basename": "Apache Hadoop",
       "path": "Apache Hadoop.md"
     },
@@ -131,10 +132,30 @@
     {
       "basename": "Requirements review",
       "path": "Requirements review.md"
+=======
+      "basename": "Learning rate",
+      "path": "Learning rate.md"
+    },
+    {
+      "basename": "Hyperparameters",
+      "path": "Hyperparameters.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Standardize",
+      "path": "Standardize.md"
+>>>>>>> Stashed changes
     },
     {
       "basename": "Loss function",
       "path": "Loss function.md"
+    },
+    {
+      "basename": "Dropout",
+      "path": "Dropout.md"
     },
     {
       "basename": "Cost function",
@@ -153,28 +174,12 @@
       "path": "Overfitting.md"
     },
     {
-      "basename": "Dropout",
-      "path": "Dropout.md"
-    },
-    {
       "basename": "Batch normalization",
       "path": "Batch normalization.md"
     },
     {
-      "basename": "Standardize",
-      "path": "Standardize.md"
-    },
-    {
-      "basename": "Deep Learning",
-      "path": "Deep Learning.md"
-    },
-    {
       "basename": "Cross Entropy",
       "path": "Cross Entropy.md"
-    },
-    {
-      "basename": "Learning rate",
-      "path": "Learning rate.md"
     },
     {
       "basename": "global minimum",
@@ -197,8 +202,141 @@
       "path": "Dividing data strategies.md"
     },
     {
+<<<<<<< Updated upstream
       "basename": "Hyperparameters",
       "path": "Hyperparameters.md"
+=======
+      "basename": "Mini-Batch Gradient Descent",
+      "path": "Mini-Batch Gradient Descent.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "Gradient Descent.md"
+    },
+    {
+      "basename": "Batch Gradient Descent",
+      "path": "Batch Gradient Descent.md"
+    },
+    {
+      "basename": "Stochastic Gradient Descent",
+      "path": "Stochastic Gradient Descent.md"
+    },
+    {
+      "basename": "Lag problems",
+      "path": "Lag problems.md"
+    },
+    {
+      "basename": "Hotspot",
+      "path": "Hotspot.md"
+    },
+    {
+      "basename": "Logz Metrics",
+      "path": "Logz Metrics.md"
+    },
+    {
+      "basename": "Logz Metrics]",
+      "path": "Logz Metrics].md"
+    },
+    {
+      "basename": "Logz.io",
+      "path": "Logz.io.md"
+    },
+    {
+      "basename": "Log Engines",
+      "path": "Log Engines.md"
+    },
+    {
+      "basename": "Sawmill",
+      "path": "Sawmill.md"
+    },
+    {
+      "basename": "Latency Thresholds",
+      "path": "Latency Thresholds.md"
+    },
+    {
+      "basename": "Cluster",
+      "path": "Cluster.md"
+    },
+    {
+      "basename": "Node",
+      "path": "Node.md"
+    },
+    {
+      "basename": "ElasticSearch",
+      "path": "ElasticSearch.md"
+    },
+    {
+      "basename": "Opensearch",
+      "path": "Opensearch.md"
+    },
+    {
+      "basename": "Logz guidlines",
+      "path": "Logz guidlines.md"
+    },
+    {
+      "basename": "Big Data",
+      "path": "Big Data.md"
+    },
+    {
+      "basename": "Scaling",
+      "path": "Scaling.md"
+    },
+    {
+      "basename": "horizontal scaling",
+      "path": "horizontal scaling.md"
+    },
+    {
+      "basename": "vertical scaling",
+      "path": "vertical scaling.md"
+    },
+    {
+      "basename": "Semester 5",
+      "path": "Semester 5.md"
+    },
+    {
+      "basename": "Business Intelligence and Data Warehousing",
+      "path": "Business Intelligence and Data Warehousing.md"
+    },
+    {
+      "basename": "Computation Graph",
+      "path": "Computation Graph.md"
+    },
+    {
+      "basename": "tanh",
+      "path": "tanh.md"
+    },
+    {
+      "basename": "Leading and lagging indicators",
+      "path": "Leading and lagging indicators.md"
+    },
+    {
+      "basename": "Business Intelligence",
+      "path": "Business Intelligence.md"
+    },
+    {
+      "basename": "KPI",
+      "path": "KPI.md"
+    },
+    {
+      "basename": "Organizational Measuring",
+      "path": "Organizational Measuring.md"
+    },
+    {
+      "basename": "BIDW Final Test",
+      "path": "BIDW Final Test.md"
+    },
+    {
+      "basename": "Tokenization and Segmentation",
+      "path": "Tokenization and Segmentation.md"
+    },
+    {
+      "basename": "ETL",
+      "path": "ETL.md"
+    },
+    {
+      "basename": "Data Warehouse",
+      "path": "Data Warehouse.md"
+>>>>>>> Stashed changes
     }
   ],
   "omittedPaths": [],
