@@ -2,6 +2,7 @@
   "recentFiles": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "basename": "Apache Hadoop",
       "path": "Apache Hadoop.md"
     },
@@ -133,6 +134,8 @@
       "basename": "Requirements review",
       "path": "Requirements review.md"
 =======
+=======
+>>>>>>> Stashed changes
       "basename": "Learning rate",
       "path": "Learning rate.md"
     },
@@ -147,6 +150,9 @@
     {
       "basename": "Standardize",
       "path": "Standardize.md"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -203,9 +209,12 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "basename": "Hyperparameters",
       "path": "Hyperparameters.md"
 =======
+=======
+>>>>>>> Stashed changes
       "basename": "Mini-Batch Gradient Descent",
       "path": "Mini-Batch Gradient Descent.md"
     },

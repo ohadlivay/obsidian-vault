@@ -9,6 +9,7 @@
         "children": [
           {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "id": "0172824e495f7dcf",
             "type": "leaf",
             "state": {
@@ -83,6 +84,8 @@
           {
             "id": "a9536d4011c99ed1",
 =======
+=======
+>>>>>>> Stashed changes
             "id": "0c5f93e4133d72b5",
 >>>>>>> Stashed changes
             "type": "leaf",
@@ -90,7 +93,11 @@
               "type": "markdown",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "MapReduce.md",
+=======
+                "file": "Learning rate.md",
+>>>>>>> Stashed changes
 =======
                 "file": "Learning rate.md",
 >>>>>>> Stashed changes
@@ -109,8 +116,11 @@
               },
               "icon": "lucide-file",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "MapReduce"
 =======
+=======
+>>>>>>> Stashed changes
               "title": "Learning rate"
             }
           },
@@ -221,7 +231,11 @@
               "type": "search",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "query": "hdfs",
+=======
+                "query": "",
+>>>>>>> Stashed changes
 =======
                 "query": "",
 >>>>>>> Stashed changes
@@ -370,6 +384,7 @@
     }
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "39c9bf2245cfcb47",
   "lastOpenFiles": [
     "Big Data.md",
@@ -402,6 +417,10 @@
 =======
   "active": "0c5f93e4133d72b5",
   "lastOpenFiles": [
+=======
+  "active": "0c5f93e4133d72b5",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "Hyperparameters.md",
     "Learning rate.md",
     "Deep Learning.md",
