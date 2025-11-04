@@ -12,6 +12,8 @@ Measuring is an essential tool for management.
 - budget and time
 
 # How do we measure?
-* [[KPI]] - numerical(!!)
+* [[KPI]] - numerical(!!) tied with business goals
 * [[Leading and lagging indicators]]
+# KPI vs Indicators
+indicator is general while KPI is very specific.
 

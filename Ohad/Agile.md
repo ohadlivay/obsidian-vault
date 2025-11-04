@@ -11,7 +11,7 @@ Test first
 [[Acceptance Test]]
 
 Agile methods:
-[[Scrum]]
+[[SCRUM]]
 
 Benefits: 
 * changes are cheap

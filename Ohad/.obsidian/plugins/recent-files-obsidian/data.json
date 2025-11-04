@@ -1,6 +1,118 @@
 {
   "recentFiles": [
     {
+      "basename": "Leading and lagging indicators",
+      "path": "Leading and lagging indicators.md"
+    },
+    {
+      "basename": "BIDW Final Test",
+      "path": "BIDW Final Test.md"
+    },
+    {
+      "basename": "Business Intelligence and Data Warehousing",
+      "path": "Business Intelligence and Data Warehousing.md"
+    },
+    {
+      "basename": "KPI",
+      "path": "KPI.md"
+    },
+    {
+      "basename": "Organizational Measuring",
+      "path": "Organizational Measuring.md"
+    },
+    {
+      "basename": "Semester 5",
+      "path": "Semester 5.md"
+    },
+    {
+      "basename": "Morphology",
+      "path": "Morphology.md"
+    },
+    {
+      "basename": "Inverted Index",
+      "path": "Inverted Index.md"
+    },
+    {
+      "basename": "Stop words",
+      "path": "Stop words.md"
+    },
+    {
+      "basename": "Positional Indexes",
+      "path": "Positional Indexes.md"
+    },
+    {
+      "basename": "Damerau–Levenshtein Distance",
+      "path": "Damerau–Levenshtein Distance.md"
+    },
+    {
+      "basename": "Information Retrieval",
+      "path": "Information Retrieval.md"
+    },
+    {
+      "basename": "Stemming",
+      "path": "Stemming.md"
+    },
+    {
+      "basename": "Indexing",
+      "path": "Indexing.md"
+    },
+    {
+      "basename": "Word Normalization",
+      "path": "Word Normalization.md"
+    },
+    {
+      "basename": "Bag of Words",
+      "path": "Bag of Words.md"
+    },
+    {
+      "basename": "Zipf's Law",
+      "path": "Zipf's Law.md"
+    },
+    {
+      "basename": "Word",
+      "path": "Word.md"
+    },
+    {
+      "basename": "Query Processing",
+      "path": "Query Processing.md"
+    },
+    {
+      "basename": "Software Engineering and Quality Assurance",
+      "path": "Software Engineering and Quality Assurance.md"
+    },
+    {
+      "basename": "SCRUM",
+      "path": "SCRUM.md"
+    },
+    {
+      "basename": "scrum_ex",
+      "path": "scrum_ex.md"
+    },
+    {
+      "basename": "Contract & Contract Review",
+      "path": "Contract & Contract Review.md"
+    },
+    {
+      "basename": "Requirements",
+      "path": "Requirements.md"
+    },
+    {
+      "basename": "Requirements Management",
+      "path": "Requirements Management.md"
+    },
+    {
+      "basename": "Requirements Validation",
+      "path": "Requirements Validation.md"
+    },
+    {
+      "basename": "Requirements Elicitation",
+      "path": "Requirements Elicitation.md"
+    },
+    {
+      "basename": "Requirements review",
+      "path": "Requirements review.md"
+    },
+    {
       "basename": "Loss function",
       "path": "Loss function.md"
     },
@@ -87,118 +199,6 @@
     {
       "basename": "Lag problems",
       "path": "Lag problems.md"
-    },
-    {
-      "basename": "Hotspot",
-      "path": "Hotspot.md"
-    },
-    {
-      "basename": "Logz Metrics",
-      "path": "Logz Metrics.md"
-    },
-    {
-      "basename": "Logz Metrics]",
-      "path": "Logz Metrics].md"
-    },
-    {
-      "basename": "Logz.io",
-      "path": "Logz.io.md"
-    },
-    {
-      "basename": "Log Engines",
-      "path": "Log Engines.md"
-    },
-    {
-      "basename": "Sawmill",
-      "path": "Sawmill.md"
-    },
-    {
-      "basename": "Latency Thresholds",
-      "path": "Latency Thresholds.md"
-    },
-    {
-      "basename": "Cluster",
-      "path": "Cluster.md"
-    },
-    {
-      "basename": "Node",
-      "path": "Node.md"
-    },
-    {
-      "basename": "ElasticSearch",
-      "path": "ElasticSearch.md"
-    },
-    {
-      "basename": "Opensearch",
-      "path": "Opensearch.md"
-    },
-    {
-      "basename": "Logz guidlines",
-      "path": "Logz guidlines.md"
-    },
-    {
-      "basename": "Big Data",
-      "path": "Big Data.md"
-    },
-    {
-      "basename": "Scaling",
-      "path": "Scaling.md"
-    },
-    {
-      "basename": "horizontal scaling",
-      "path": "horizontal scaling.md"
-    },
-    {
-      "basename": "vertical scaling",
-      "path": "vertical scaling.md"
-    },
-    {
-      "basename": "Semester 5",
-      "path": "Semester 5.md"
-    },
-    {
-      "basename": "Business Intelligence and Data Warehousing",
-      "path": "Business Intelligence and Data Warehousing.md"
-    },
-    {
-      "basename": "Computation Graph",
-      "path": "Computation Graph.md"
-    },
-    {
-      "basename": "tanh",
-      "path": "tanh.md"
-    },
-    {
-      "basename": "Leading and lagging indicators",
-      "path": "Leading and lagging indicators.md"
-    },
-    {
-      "basename": "Business Intelligence",
-      "path": "Business Intelligence.md"
-    },
-    {
-      "basename": "KPI",
-      "path": "KPI.md"
-    },
-    {
-      "basename": "Organizational Measuring",
-      "path": "Organizational Measuring.md"
-    },
-    {
-      "basename": "BIDW Final Test",
-      "path": "BIDW Final Test.md"
-    },
-    {
-      "basename": "Tokenization and Segmentation",
-      "path": "Tokenization and Segmentation.md"
-    },
-    {
-      "basename": "ETL",
-      "path": "ETL.md"
-    },
-    {
-      "basename": "Data Warehouse",
-      "path": "Data Warehouse.md"
     }
   ],
   "omittedPaths": [],

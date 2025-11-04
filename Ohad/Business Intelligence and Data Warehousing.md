@@ -16,3 +16,9 @@ hw2 about 3d databases
 hw3 (15%) create data analytics for company.
 
 Attendance: 80%. only sick leave. will be checked randomy. essentially means cant miss more than 1 sampling. zoom(?).
+# Lecture 2
+Analytical goals
+	Descriptive goals
+		rporting, [[KPI]], segmentation, clustering
+	Predictive goals
+	Understanding gols

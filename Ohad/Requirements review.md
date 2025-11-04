@@ -1,0 +1,7 @@
+formal and informal
+
+review checklist
+verifiabiltiy
+comprehensibility
+traceability
+adaptability

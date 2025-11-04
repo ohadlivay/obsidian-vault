@@ -22,7 +22,15 @@ Corpus > Document > Section > Paragraph > Sentence > Phrase > [[Word]] > Charact
 [[Tokenization and Segmentation]]
 [[Lemmatization]]
 [[Stemming]]
+[[Word Normalization]]
 
 ## Vectorization
 [[Zipf's Law]]
 [[Bag of Words]]
+[[Morphology]]
+# Lecture 2
+[[Indexing]]
+[[Stop words]]
+[[Query Processing]]
+[[Document Retrieval]]
+[[Damerau–Levenshtein Distance]]

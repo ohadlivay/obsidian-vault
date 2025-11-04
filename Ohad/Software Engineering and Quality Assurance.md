@@ -39,3 +39,11 @@ software integrates with different dependencies, so security guarantees are need
 
 
 [[Version control & Github]]
+
+# Lecture 2
+[[Requirements]]
+[[Contract & Contract Review]]
+[[Development plan]]
+[[Quality plan]]
+[[Risk management]]
+[[SCRUM]]

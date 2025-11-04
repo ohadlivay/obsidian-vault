@@ -1,0 +1,2 @@
+Data structure wehere each key is a word (or lemma, stem..) from the corpus, and the values are the documents (or document id) that contain this index word. 
+{Haifa -> 33342, 1410, 140650 , 1039492,....}
