@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Leading and lagging indicators",
-      "path": "Leading and lagging indicators.md"
+      "basename": "Apache Hadoop",
+      "path": "Apache Hadoop.md"
     },
     {
-      "basename": "BIDW Final Test",
-      "path": "BIDW Final Test.md"
+      "basename": "Big Data",
+      "path": "Big Data.md"
     },
     {
-      "basename": "Business Intelligence and Data Warehousing",
-      "path": "Business Intelligence and Data Warehousing.md"
+      "basename": "MapReduce",
+      "path": "MapReduce.md"
+    },
+    {
+      "basename": "Serverless",
+      "path": "Serverless.md"
+    },
+    {
+      "basename": "Semester 5",
+      "path": "Semester 5.md"
     },
     {
       "basename": "KPI",
       "path": "KPI.md"
     },
     {
-      "basename": "Organizational Measuring",
-      "path": "Organizational Measuring.md"
+      "basename": "BIDW Final Test",
+      "path": "BIDW Final Test.md"
     },
     {
-      "basename": "Semester 5",
-      "path": "Semester 5.md"
+      "basename": "Scaling",
+      "path": "Scaling.md"
+    },
+    {
+      "basename": "Leading and lagging indicators",
+      "path": "Leading and lagging indicators.md"
+    },
+    {
+      "basename": "Business Intelligence and Data Warehousing",
+      "path": "Business Intelligence and Data Warehousing.md"
+    },
+    {
+      "basename": "Organizational Measuring",
+      "path": "Organizational Measuring.md"
     },
     {
       "basename": "Morphology",
@@ -179,26 +199,6 @@
     {
       "basename": "Hyperparameters",
       "path": "Hyperparameters.md"
-    },
-    {
-      "basename": "Mini-Batch Gradient Descent",
-      "path": "Mini-Batch Gradient Descent.md"
-    },
-    {
-      "basename": "Gradient Descent",
-      "path": "Gradient Descent.md"
-    },
-    {
-      "basename": "Batch Gradient Descent",
-      "path": "Batch Gradient Descent.md"
-    },
-    {
-      "basename": "Stochastic Gradient Descent",
-      "path": "Stochastic Gradient Descent.md"
-    },
-    {
-      "basename": "Lag problems",
-      "path": "Lag problems.md"
     }
   ],
   "omittedPaths": [],

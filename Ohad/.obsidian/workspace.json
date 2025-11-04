@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2671d5df9a32385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIDW Final Test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BIDW Final Test"
-            }
-          },
-          {
-            "id": "a169109617a9c8e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KPI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KPI"
-            }
-          },
-          {
             "id": "0172824e495f7dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading and lagging indicators.md",
+                "file": "Semester 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leading and lagging indicators"
+              "title": "Semester 5"
+            }
+          },
+          {
+            "id": "39c9bf2245cfcb47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apache Hadoop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Apache Hadoop"
+            }
+          },
+          {
+            "id": "8274beb1a5fb3cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big Data.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Big Data"
+            }
+          },
+          {
+            "id": "a9536d4011c99ed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MapReduce.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MapReduce"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hdfs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,14 +281,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "0172824e495f7dcf",
+  "active": "39c9bf2245cfcb47",
   "lastOpenFiles": [
-    "BIDW Final Test.md",
-    "Business Intelligence and Data Warehousing.md",
-    "KPI.md",
-    "Leading and lagging indicators.md",
-    "Organizational Measuring.md",
+    "Big Data.md",
+    "MapReduce.md",
+    "Serverless.md",
+    "Apache Hadoop.md",
+    "Pasted image 20251104171929.png",
     "Semester 5.md",
+    "KPI.md",
+    "BIDW Final Test.md",
+    "Scaling.md",
+    "Leading and lagging indicators.md",
+    "Business Intelligence and Data Warehousing.md",
+    "Organizational Measuring.md",
     "Morphology.md",
     "Inverted Index.md",
     "Stop words.md",
@@ -280,11 +310,6 @@
     "Query Processing.md",
     "Software Engineering and Quality Assurance.md",
     "SCRUM.md",
-    "scrum_ex.md",
-    "Contract & Contract Review.md",
-    "Requirements.md",
-    "Requirements Management.md",
-    "Requirements Validation.md",
     "Pasted image 20251030173228.png",
     "Pasted image 20251030142941.png",
     "Pasted image 20251030141236.png",
@@ -294,7 +319,6 @@
     "Pasted image 20251030135520.png",
     "Pasted image 20251028191124.png",
     "Pasted image 20251028191037.png",
-    "Pasted image 20251028190652.png",
     "Tokenization",
     "שנה ג.canvas",
     "Canvas Syntax.canvas",

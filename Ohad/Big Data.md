@@ -123,3 +123,5 @@ network becomes bottleneck if we need to move lots of data.
 [[MapReduce]] approach is to not transfer all data, but to bring CPU to data using a data node (Server
 
 ## [[Scaling|Scalability]]
+
+## [[Apache Hadoop]]
