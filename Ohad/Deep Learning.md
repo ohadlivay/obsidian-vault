@@ -47,3 +47,5 @@ Epoch - one pass on n samples including forward+backward. (?) rule of thumb: 50.
 ## [[Overfitting]]
 
 [[Regularization]]
+
+# Deep learning Lec 3
