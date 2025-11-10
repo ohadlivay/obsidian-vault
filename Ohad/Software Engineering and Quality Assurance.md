@@ -47,3 +47,12 @@ software integrates with different dependencies, so security guarantees are need
 [[Quality plan]]
 [[Risk management]]
 [[SCRUM]]
+# Lecture 3
+[[System Requirement Review]]
+[[srr ex]]
+[[MVC]]
+
+
+# Lecture 4
+# Lecture 5
+# Lecture 6

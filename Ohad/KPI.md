@@ -27,5 +27,9 @@ overview. more general KPI, which spans all 3.
 KPI Table
 look in lecture 2. (?)
 
-KPI example:
-Income
+# KPI examples
+GPM = (total revenue - cost of goods) / total revenue 
+Churn rate = ... 
+CVR = positive events / all events. e.g gift shop visitors actually buying amongst all visitors in shop.
+Retention = 1-churn rate
+CAC - customer acquisition cost = marketing cost / number of customers gained. 

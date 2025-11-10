@@ -22,3 +22,9 @@ Analytical goals
 		rporting, [[KPI]], segmentation, clustering
 	Predictive goals
 	Understanding gols
+# Lecture 3
+[[BI_HW1]]
+[[BI_Project]]
+[[BI_Test]]
+[[Enterprise Modeling for BI]]
+[[Ontologies]]

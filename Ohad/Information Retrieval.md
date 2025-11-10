@@ -34,3 +34,9 @@ Corpus > Document > Section > Paragraph > Sentence > Phrase > [[Word]] > Charact
 [[Query Processing]]
 [[Document Retrieval]]
 [[Damerau–Levenshtein Distance]]
+
+# Lecture 3
+## Recap
+ [[Text pre-processing]]
+[[Indexing]]
+[[Ranked Retrieval]]

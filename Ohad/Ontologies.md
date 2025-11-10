@@ -1,0 +1,1 @@
+a conceptual model that represents shared understanding of a domain. there are tools to host knowledge in this way and to perform inference on it. 

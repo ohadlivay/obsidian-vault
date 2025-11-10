@@ -1,8 +1,120 @@
 {
   "recentFiles": [
     {
+      "basename": "Ontologies",
+      "path": "Ontologies.md"
+    },
+    {
+      "basename": "Business Intelligence and Data Warehousing",
+      "path": "Business Intelligence and Data Warehousing.md"
+    },
+    {
+      "basename": "Enterprise Modeling for BI",
+      "path": "Enterprise Modeling for BI.md"
+    },
+    {
+      "basename": "BI_Test",
+      "path": "BI_Test.md"
+    },
+    {
+      "basename": "KPI",
+      "path": "KPI.md"
+    },
+    {
+      "basename": "BI_Project",
+      "path": "BI_Project.md"
+    },
+    {
+      "basename": "Semester 5",
+      "path": "Semester 5.md"
+    },
+    {
+      "basename": "Information Retrieval",
+      "path": "Information Retrieval.md"
+    },
+    {
+      "basename": "Ranked Retrieval",
+      "path": "Ranked Retrieval.md"
+    },
+    {
+      "basename": "BI_HW1",
+      "path": "BI_HW1.md"
+    },
+    {
+      "basename": "Text pre-processing",
+      "path": "Text pre-processing.md"
+    },
+    {
+      "basename": "Logarithm",
+      "path": "Logarithm.md"
+    },
+    {
+      "basename": "Nueron",
+      "path": "Nueron.md"
+    },
+    {
+      "basename": "Stemming",
+      "path": "Stemming.md"
+    },
+    {
+      "basename": "Indexing",
+      "path": "Indexing.md"
+    },
+    {
+      "basename": "Inverted Index",
+      "path": "Inverted Index.md"
+    },
+    {
+      "basename": "Positional Indexes",
+      "path": "Positional Indexes.md"
+    },
+    {
+      "basename": "Tokenization",
+      "path": "Tokenization.md"
+    },
+    {
+      "basename": "Lemmatization",
+      "path": "Lemmatization.md"
+    },
+    {
+      "basename": "Software Engineering and Quality Assurance",
+      "path": "Software Engineering and Quality Assurance.md"
+    },
+    {
+      "basename": "MVC",
+      "path": "MVC.md"
+    },
+    {
+      "basename": "Leading and lagging indicators",
+      "path": "Leading and lagging indicators.md"
+    },
+    {
+      "basename": "Organizational Measuring",
+      "path": "Organizational Measuring.md"
+    },
+    {
       "basename": "Deep Learning",
       "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Convolutional Neural Networks",
+      "path": "Convolutional Neural Networks.md"
+    },
+    {
+      "basename": "srr ex",
+      "path": "srr ex.md"
+    },
+    {
+      "basename": "System Requirement Review",
+      "path": "System Requirement Review.md"
+    },
+    {
+      "basename": "Quality plan",
+      "path": "Quality plan.md"
+    },
+    {
+      "basename": "Random Search",
+      "path": "Random Search.md"
     },
     {
       "basename": "Regularization",
@@ -25,14 +137,6 @@
       "path": "Serverless.md"
     },
     {
-      "basename": "Semester 5",
-      "path": "Semester 5.md"
-    },
-    {
-      "basename": "KPI",
-      "path": "KPI.md"
-    },
-    {
       "basename": "BIDW Final Test",
       "path": "BIDW Final Test.md"
     },
@@ -41,48 +145,16 @@
       "path": "Scaling.md"
     },
     {
-      "basename": "Leading and lagging indicators",
-      "path": "Leading and lagging indicators.md"
-    },
-    {
-      "basename": "Business Intelligence and Data Warehousing",
-      "path": "Business Intelligence and Data Warehousing.md"
-    },
-    {
-      "basename": "Organizational Measuring",
-      "path": "Organizational Measuring.md"
-    },
-    {
       "basename": "Morphology",
       "path": "Morphology.md"
-    },
-    {
-      "basename": "Inverted Index",
-      "path": "Inverted Index.md"
     },
     {
       "basename": "Stop words",
       "path": "Stop words.md"
     },
     {
-      "basename": "Positional Indexes",
-      "path": "Positional Indexes.md"
-    },
-    {
       "basename": "Damerau–Levenshtein Distance",
       "path": "Damerau–Levenshtein Distance.md"
-    },
-    {
-      "basename": "Information Retrieval",
-      "path": "Information Retrieval.md"
-    },
-    {
-      "basename": "Stemming",
-      "path": "Stemming.md"
-    },
-    {
-      "basename": "Indexing",
-      "path": "Indexing.md"
     },
     {
       "basename": "Word Normalization",
@@ -103,10 +175,6 @@
     {
       "basename": "Query Processing",
       "path": "Query Processing.md"
-    },
-    {
-      "basename": "Software Engineering and Quality Assurance",
-      "path": "Software Engineering and Quality Assurance.md"
     },
     {
       "basename": "SCRUM",
@@ -131,74 +199,6 @@
     {
       "basename": "Requirements Validation",
       "path": "Requirements Validation.md"
-    },
-    {
-      "basename": "Requirements Elicitation",
-      "path": "Requirements Elicitation.md"
-    },
-    {
-      "basename": "Requirements review",
-      "path": "Requirements review.md"
-    },
-    {
-      "basename": "Loss function",
-      "path": "Loss function.md"
-    },
-    {
-      "basename": "Cost function",
-      "path": "Cost function.md"
-    },
-    {
-      "basename": "Back Propogration",
-      "path": "Back Propogration.md"
-    },
-    {
-      "basename": "Overfitting",
-      "path": "Overfitting.md"
-    },
-    {
-      "basename": "Dropout",
-      "path": "Dropout.md"
-    },
-    {
-      "basename": "Batch normalization",
-      "path": "Batch normalization.md"
-    },
-    {
-      "basename": "Standardize",
-      "path": "Standardize.md"
-    },
-    {
-      "basename": "Cross Entropy",
-      "path": "Cross Entropy.md"
-    },
-    {
-      "basename": "Learning rate",
-      "path": "Learning rate.md"
-    },
-    {
-      "basename": "global minimum",
-      "path": "global minimum.md"
-    },
-    {
-      "basename": "Bayesian Search",
-      "path": "Bayesian Search.md"
-    },
-    {
-      "basename": "Graph Neural Networks",
-      "path": "Graph Neural Networks.md"
-    },
-    {
-      "basename": "Grid Search",
-      "path": "Grid Search.md"
-    },
-    {
-      "basename": "Dividing data strategies",
-      "path": "Dividing data strategies.md"
-    },
-    {
-      "basename": "Hyperparameters",
-      "path": "Hyperparameters.md"
     }
   ],
   "omittedPaths": [],

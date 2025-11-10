@@ -41,7 +41,7 @@ Epoch - one pass on n samples including forward+backward. (?) rule of thumb: 50.
 ## [[Dividing data strategies]]
 
 ## [[Grid Search]]
-## Random Search
+## [[Random Search]]
 ## [[Bayesian Search]]
 
 ## [[Overfitting]]
@@ -49,3 +49,19 @@ Epoch - one pass on n samples including forward+backward. (?) rule of thumb: 50.
 [[Regularization]]
 
 # Deep learning Lec 3
+Recap
+	[[Gradient Descent]]
+	optimizations on it
+	mlp
+
+[[Convolutional Neural Networks]]
+# Deep learning Lec 4
+application
+# Deep learning Lec 5
+# Deep learning Lec 6
+# Deep learning Lec 7
+# Deep learning Lec 8
+# Deep learning Lec 9
+# Deep learning Lec 10
+# Deep learning Lec 11
+# Deep learning Lec 12

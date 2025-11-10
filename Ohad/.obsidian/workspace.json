@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0172824e495f7dcf",
+            "id": "f8c5895b5ae16275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 5.md",
+                "file": "Business Intelligence and Data Warehousing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Semester 5"
+              "title": "Business Intelligence and Data Warehousing"
             }
           },
           {
-            "id": "39c9bf2245cfcb47",
+            "id": "98a2b47daf9ee741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning.md",
+                "file": "Ontologies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deep Learning"
+              "title": "Ontologies"
             }
           },
           {
-            "id": "8274beb1a5fb3cfc",
+            "id": "cfc4189901005656",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data.md",
+                "file": "Enterprise Modeling for BI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Big Data"
+              "title": "Enterprise Modeling for BI"
             }
           },
           {
-            "id": "a9536d4011c99ed1",
+            "id": "f62540fe421e5c41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MapReduce.md",
+                "file": "BI_Test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,103 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MapReduce"
+              "title": "BI_Test"
+            }
+          },
+          {
+            "id": "5efec5e4c5a2119a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KPI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KPI"
+            }
+          },
+          {
+            "id": "bdf7bea8c8975cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BI_Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BI_Project"
+            }
+          },
+          {
+            "id": "8053a6177ac84228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BI_HW1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BI_HW1"
+            }
+          },
+          {
+            "id": "f1892e8722c1a3c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ranked Retrieval.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ranked Retrieval"
             }
           }
         ],
@@ -136,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dee",
+                "query": "course",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,8 +263,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,35 +376,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "39c9bf2245cfcb47",
+  "active": "98a2b47daf9ee741",
   "lastOpenFiles": [
-    "Regularization.md",
-    "Deep Learning.md",
-    "Apache Hadoop.md",
-    "Big Data.md",
-    "MapReduce.md",
-    "Serverless.md",
-    "Pasted image 20251104171929.png",
-    "Semester 5.md",
-    "KPI.md",
-    "BIDW Final Test.md",
-    "Scaling.md",
-    "Leading and lagging indicators.md",
+    "Ontologies.md",
     "Business Intelligence and Data Warehousing.md",
-    "Organizational Measuring.md",
-    "Morphology.md",
-    "Inverted Index.md",
-    "Stop words.md",
-    "Positional Indexes.md",
-    "Damerau–Levenshtein Distance.md",
+    "Enterprise Modeling for BI.md",
+    "BI_Test.md",
+    "KPI.md",
+    "BI_Project.md",
+    "Semester 5.md",
     "Information Retrieval.md",
+    "Ranked Retrieval.md",
+    "BI_HW1.md",
+    "Text pre-processing.md",
+    "Term-Frequency.md",
+    "Logarithm.md",
+    "Nueron.md",
     "Stemming.md",
     "Indexing.md",
-    "Word Normalization.md",
-    "Bag of Words.md",
-    "Zipf's Law.md",
-    "Word.md",
-    "Query Processing.md",
+    "Inverted Index.md",
+    "Positional Indexes.md",
+    "Tokenization.md",
+    "Lemmatization.md",
+    "Software Engineering and Quality Assurance.md",
+    "MVC.md",
+    "Untitled.canvas",
+    "2025-11-10.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Leading and lagging indicators.md",
+    "Organizational Measuring.md",
+    "Deep Learning.md",
+    "Pasted image 20251109105557.png",
+    "Pasted image 20251104171929.png",
     "Pasted image 20251030173228.png",
     "Pasted image 20251030142941.png",
     "Pasted image 20251030141236.png",
@@ -318,7 +417,6 @@
     "Pasted image 20251030135525.png",
     "Pasted image 20251030135520.png",
     "Pasted image 20251028191124.png",
-    "Pasted image 20251028191037.png",
     "Tokenization",
     "שנה ג.canvas",
     "Canvas Syntax.canvas",
