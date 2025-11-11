@@ -21,7 +21,6 @@ OLAP models
 ETL
 Data visualization
 
-
 Modeling motivation: they are tools to understand a business such that we can provide it with good BI.
 Model definition: models represent some part of a business.  
 * Phenomena modeling - turning machines
@@ -36,3 +35,8 @@ Functions: operations on constants like grade(Student)=passed
 Predicates: define properties for individual constant. e.g; Birds can fly. it has a false value. 
 Quantifiers: $\forall,\exists$
 
+Petri nets
+SAN - Stochastic Active Network
+
+Markov chains
+	

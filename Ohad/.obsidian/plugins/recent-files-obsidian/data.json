@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Ontologies",
-      "path": "Ontologies.md"
+      "basename": "Progamming Hadoop",
+      "path": "Progamming Hadoop.md"
     },
     {
-      "basename": "Business Intelligence and Data Warehousing",
-      "path": "Business Intelligence and Data Warehousing.md"
+      "basename": "Apache Hadoop",
+      "path": "Apache Hadoop.md"
+    },
+    {
+      "basename": "Big Data",
+      "path": "Big Data.md"
+    },
+    {
+      "basename": "MapReduce",
+      "path": "MapReduce.md"
+    },
+    {
+      "basename": "SWEQA Project",
+      "path": "SWEQA Project.md"
+    },
+    {
+      "basename": "CAP Theorem",
+      "path": "CAP Theorem.md"
+    },
+    {
+      "basename": "Sequential Consistency",
+      "path": "Sequential Consistency.md"
     },
     {
       "basename": "Enterprise Modeling for BI",
@@ -15,6 +35,14 @@
     {
       "basename": "BI_Test",
       "path": "BI_Test.md"
+    },
+    {
+      "basename": "Ontologies",
+      "path": "Ontologies.md"
+    },
+    {
+      "basename": "Business Intelligence and Data Warehousing",
+      "path": "Business Intelligence and Data Warehousing.md"
     },
     {
       "basename": "KPI",
@@ -121,18 +149,6 @@
       "path": "Regularization.md"
     },
     {
-      "basename": "Apache Hadoop",
-      "path": "Apache Hadoop.md"
-    },
-    {
-      "basename": "Big Data",
-      "path": "Big Data.md"
-    },
-    {
-      "basename": "MapReduce",
-      "path": "MapReduce.md"
-    },
-    {
       "basename": "Serverless",
       "path": "Serverless.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "scrum_ex",
       "path": "scrum_ex.md"
-    },
-    {
-      "basename": "Contract & Contract Review",
-      "path": "Contract & Contract Review.md"
-    },
-    {
-      "basename": "Requirements",
-      "path": "Requirements.md"
-    },
-    {
-      "basename": "Requirements Management",
-      "path": "Requirements Management.md"
-    },
-    {
-      "basename": "Requirements Validation",
-      "path": "Requirements Validation.md"
     }
   ],
   "omittedPaths": [],

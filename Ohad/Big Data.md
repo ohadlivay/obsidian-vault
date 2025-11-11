@@ -125,3 +125,6 @@ network becomes bottleneck if we need to move lots of data.
 ## [[Scaling|Scalability]]
 
 ## [[Apache Hadoop]]
+# Lecture 3
+[[CAP Theorem]]
+[[Progamming Hadoop]]
