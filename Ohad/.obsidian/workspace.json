@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "309e6d2ed48b688f",
+        "id": "80e4899714925b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc4189901005656",
+            "id": "c53f8a4bb3831e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data.md",
+                "file": "Information Retrieval.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,93 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Big Data"
-            }
-          },
-          {
-            "id": "f0813eba20d5b0af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progamming Hadoop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Progamming Hadoop"
-            }
-          },
-          {
-            "id": "5d4e7cec94134270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apache Hadoop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Apache Hadoop"
-            }
-          },
-          {
-            "id": "c82dab0764a03807",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "250502022b3d0465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sequential Consistency.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sequential Consistency"
+              "title": "Information Retrieval"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "course",
+                "query": "quiz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,8 +208,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f0813eba20d5b0af",
+  "active": "c53f8a4bb3831e7c",
   "lastOpenFiles": [
+    "Word.md",
+    "Information Retrieval.md",
+    "Pasted image 20251115095608.png",
+    "Ranked Retrieval.md",
+    "Project Kinneret.md",
     "Apache Hadoop.md",
     "Big Data.md",
     "Progamming Hadoop.md",
@@ -309,8 +231,6 @@
     "KPI.md",
     "BI_Project.md",
     "Semester 5.md",
-    "Information Retrieval.md",
-    "Ranked Retrieval.md",
     "BI_HW1.md",
     "Text pre-processing.md",
     "Term-Frequency.md",
@@ -319,8 +239,6 @@
     "Stemming.md",
     "Indexing.md",
     "Inverted Index.md",
-    "Positional Indexes.md",
-    "Tokenization.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
@@ -331,7 +249,6 @@
     "Pasted image 20251030141236.png",
     "Pasted image 20251030135621.png",
     "Pasted image 20251030135619.png",
-    "Pasted image 20251030135525.png",
     "Tokenization",
     "שנה ג.canvas",
     "Canvas Syntax.canvas",

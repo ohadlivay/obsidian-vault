@@ -1,6 +1,11 @@
 # Lecture 1
-2 quizes - in moodle. computations and multiple choice.
-IR is finding materials of unstructured nature that satisfy an information need from large collections.
+## Administrative
+2 quizes - in moodle.
+[[Ranked Retrieval# Quiz (17.11.25)|quiz 1]], quiz 2
+mostly computations and multiple choice.
+## What is IR?
+Definition: IR is finding materials of unstructured nature that satisfy an information need from large collections.
+![[Pasted image 20251115095608.png]]
 ## Components of Information Retrieval
 ### Document Representation
 ### Query Representation
@@ -17,7 +22,7 @@ analyze sounds
 ### Semantics
 
 ## Text Documents
-Corpus > Document > Section > Paragraph > Sentence > Phrase > [[Word]] > Character Level
+Corpus > Document > Section > Paragraph > Sentence > Phrase > [[Term|word]] > Character Level
 ## Data pre-processing
 [[Tokenization and Segmentation]]
 [[Lemmatization]]

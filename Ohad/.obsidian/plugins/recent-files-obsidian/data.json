@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Information Retrieval",
+      "path": "Information Retrieval.md"
+    },
+    {
+      "basename": "Word",
+      "path": "Word.md"
+    },
+    {
+      "basename": "Ranked Retrieval",
+      "path": "Ranked Retrieval.md"
+    },
+    {
+      "basename": "Project Kinneret",
+      "path": "Project Kinneret.md"
+    },
+    {
       "basename": "Progamming Hadoop",
       "path": "Progamming Hadoop.md"
     },
@@ -55,14 +71,6 @@
     {
       "basename": "Semester 5",
       "path": "Semester 5.md"
-    },
-    {
-      "basename": "Information Retrieval",
-      "path": "Information Retrieval.md"
-    },
-    {
-      "basename": "Ranked Retrieval",
-      "path": "Ranked Retrieval.md"
     },
     {
       "basename": "BI_HW1",
@@ -185,20 +193,12 @@
       "path": "Zipf's Law.md"
     },
     {
-      "basename": "Word",
-      "path": "Word.md"
-    },
-    {
       "basename": "Query Processing",
       "path": "Query Processing.md"
     },
     {
       "basename": "SCRUM",
       "path": "SCRUM.md"
-    },
-    {
-      "basename": "scrum_ex",
-      "path": "scrum_ex.md"
     }
   ],
   "omittedPaths": [],
