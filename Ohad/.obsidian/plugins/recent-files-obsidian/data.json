@@ -1,16 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "Business Intelligence and Data Warehousing",
+      "path": "Business Intelligence and Data Warehousing.md"
+    },
+    {
+      "basename": "BI_HW",
+      "path": "BI_HW.md"
+    },
+    {
+      "basename": "OLAP",
+      "path": "OLAP.md"
+    },
+    {
+      "basename": "Data Warehouse",
+      "path": "Data Warehouse.md"
+    },
+    {
+      "basename": "MBDMS",
+      "path": "MBDMS.md"
+    },
+    {
+      "basename": "BI_Test",
+      "path": "BI_Test.md"
+    },
+    {
+      "basename": "BI_Project",
+      "path": "BI_Project.md"
+    },
+    {
+      "basename": "Clustering",
+      "path": "Clustering.md"
+    },
+    {
+      "basename": "Query Expansion",
+      "path": "Query Expansion.md"
+    },
+    {
+      "basename": "Semester 5",
+      "path": "Semester 5.md"
+    },
+    {
       "basename": "Information Retrieval",
       "path": "Information Retrieval.md"
     },
     {
-      "basename": "Word",
-      "path": "Word.md"
+      "basename": "Unsupervised learning",
+      "path": "Unsupervised learning.md"
+    },
+    {
+      "basename": "Cluster",
+      "path": "Cluster.md"
+    },
+    {
+      "basename": "Supervised learning",
+      "path": "Supervised learning.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Structural Models",
+      "path": "Structural Models.md"
+    },
+    {
+      "basename": "Behavioral Models",
+      "path": "Behavioral Models.md"
+    },
+    {
+      "basename": "System Modeling",
+      "path": "System Modeling.md"
     },
     {
       "basename": "Ranked Retrieval",
       "path": "Ranked Retrieval.md"
+    },
+    {
+      "basename": "Software Engineering and Quality Assurance",
+      "path": "Software Engineering and Quality Assurance.md"
+    },
+    {
+      "basename": "Convolutional Neural Networks",
+      "path": "Convolutional Neural Networks.md"
+    },
+    {
+      "basename": "Stemming",
+      "path": "Stemming.md"
+    },
+    {
+      "basename": "Word Normalization",
+      "path": "Word Normalization.md"
+    },
+    {
+      "basename": "Architectural Pattern",
+      "path": "Architectural Pattern.md"
+    },
+    {
+      "basename": "Interaction Models",
+      "path": "Interaction Models.md"
+    },
+    {
+      "basename": "Process Models",
+      "path": "Process Models.md"
+    },
+    {
+      "basename": "Context Model",
+      "path": "Context Model.md"
+    },
+    {
+      "basename": "Word",
+      "path": "Word.md"
     },
     {
       "basename": "Project Kinneret",
@@ -49,32 +149,12 @@
       "path": "Enterprise Modeling for BI.md"
     },
     {
-      "basename": "BI_Test",
-      "path": "BI_Test.md"
-    },
-    {
       "basename": "Ontologies",
       "path": "Ontologies.md"
     },
     {
-      "basename": "Business Intelligence and Data Warehousing",
-      "path": "Business Intelligence and Data Warehousing.md"
-    },
-    {
       "basename": "KPI",
       "path": "KPI.md"
-    },
-    {
-      "basename": "BI_Project",
-      "path": "BI_Project.md"
-    },
-    {
-      "basename": "Semester 5",
-      "path": "Semester 5.md"
-    },
-    {
-      "basename": "BI_HW1",
-      "path": "BI_HW1.md"
     },
     {
       "basename": "Text pre-processing",
@@ -87,10 +167,6 @@
     {
       "basename": "Nueron",
       "path": "Nueron.md"
-    },
-    {
-      "basename": "Stemming",
-      "path": "Stemming.md"
     },
     {
       "basename": "Indexing",
@@ -113,10 +189,6 @@
       "path": "Lemmatization.md"
     },
     {
-      "basename": "Software Engineering and Quality Assurance",
-      "path": "Software Engineering and Quality Assurance.md"
-    },
-    {
       "basename": "MVC",
       "path": "MVC.md"
     },
@@ -127,78 +199,6 @@
     {
       "basename": "Organizational Measuring",
       "path": "Organizational Measuring.md"
-    },
-    {
-      "basename": "Deep Learning",
-      "path": "Deep Learning.md"
-    },
-    {
-      "basename": "Convolutional Neural Networks",
-      "path": "Convolutional Neural Networks.md"
-    },
-    {
-      "basename": "srr ex",
-      "path": "srr ex.md"
-    },
-    {
-      "basename": "System Requirement Review",
-      "path": "System Requirement Review.md"
-    },
-    {
-      "basename": "Quality plan",
-      "path": "Quality plan.md"
-    },
-    {
-      "basename": "Random Search",
-      "path": "Random Search.md"
-    },
-    {
-      "basename": "Regularization",
-      "path": "Regularization.md"
-    },
-    {
-      "basename": "Serverless",
-      "path": "Serverless.md"
-    },
-    {
-      "basename": "BIDW Final Test",
-      "path": "BIDW Final Test.md"
-    },
-    {
-      "basename": "Scaling",
-      "path": "Scaling.md"
-    },
-    {
-      "basename": "Morphology",
-      "path": "Morphology.md"
-    },
-    {
-      "basename": "Stop words",
-      "path": "Stop words.md"
-    },
-    {
-      "basename": "Damerau–Levenshtein Distance",
-      "path": "Damerau–Levenshtein Distance.md"
-    },
-    {
-      "basename": "Word Normalization",
-      "path": "Word Normalization.md"
-    },
-    {
-      "basename": "Bag of Words",
-      "path": "Bag of Words.md"
-    },
-    {
-      "basename": "Zipf's Law",
-      "path": "Zipf's Law.md"
-    },
-    {
-      "basename": "Query Processing",
-      "path": "Query Processing.md"
-    },
-    {
-      "basename": "SCRUM",
-      "path": "SCRUM.md"
     }
   ],
   "omittedPaths": [],

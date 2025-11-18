@@ -1,0 +1,1 @@
+We have a label ($\hat{y}$) per sample ($X$). this will be used to learn the model by providing ground truth.

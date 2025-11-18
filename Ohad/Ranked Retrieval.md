@@ -2,7 +2,7 @@ We want to retrieve the best data for each query. that means we need some kind o
 # TL;DR
 boolean_score - 1 if term in doc, else 0
 tf_score = count of term in doc
-log tf score = same but weaken effect of big documents
+log tf score = same but dampens effect of very frequent words. 
 tf-idf score = take into account term frequency and term importance.
 bm25 score = take into account tf, term importance and document length.
 # Using boolean count
@@ -26,8 +26,8 @@ a term appears in 60% of documents, it is less important than a term that appear
 this will be used as a multiplier for word frequency. 
 ### TF-IDF
 $Score(q,d)=\sum_{t \in q \cap d}TF*IDF_{t,d}$
-
-
+tf - count of term t (boolean or count) in document d
+idf - corpus wide
 # Using Vector Spaces
 we essentially create a [[Bag of Words]] where each term is an axis. each vector will have count in which each word appears in each document. this can help us rank which document is more related to our query using different measuring techniques. 
 documents in [[Corpus]] are turned into [[Vector|vectors]] such as in a [[Bag of Words]] model.

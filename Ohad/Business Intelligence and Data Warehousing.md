@@ -23,8 +23,12 @@ Analytical goals
 	Predictive goals
 	Understanding gols
 # Lecture 3
-[[BI_HW1]]
+[[BI_HW]]
 [[BI_Project]]
 [[BI_Test]]
 [[Enterprise Modeling for BI]]
 [[Ontologies]]
+# Lecture 4
+[[OLAP]]
+[[Data Warehouse]]
+[[MBDMS]]

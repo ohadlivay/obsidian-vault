@@ -8,3 +8,7 @@ markov chains
 	what is used for ?
 	diff between it and petri nets
 	no modeling questions!
+
+MBDMS: facts and dimensions
+facts are the objects in cube cells
+dimensions are the axis of the cube

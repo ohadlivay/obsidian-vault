@@ -45,3 +45,9 @@ Corpus > Document > Section > Paragraph > Sentence > Phrase > [[Term|word]] > Ch
  [[Text pre-processing]]
 [[Indexing]]
 [[Ranked Retrieval]]
+
+# Lecture 4
+[[Supervised learning]]
+[[Unsupervised learning]]
+[[Clustering]]
+[[Query Expansion]]
