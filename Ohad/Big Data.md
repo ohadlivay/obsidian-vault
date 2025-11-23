@@ -72,7 +72,7 @@ Nowcasting(?)
 ### Use-cases/Example of big data
 * john snow - first recorder use of big data: he clustered cases of cholera, found each cluster centered around water source and helped mitigate a plague.
 * house of cards - scriptwriters wrote scripts using previous episode user comments and feedback. 
-# Lecture 2
+# Lecture 2 
 ## Lambda Architecture
 tools that provide scalable systems for lots of data.
 * Batch Processing
@@ -127,4 +127,5 @@ network becomes bottleneck if we need to move lots of data.
 ## [[Apache Hadoop]]
 # Lecture 3
 [[CAP Theorem]]
-[[Progamming Hadoop]]
+[[Programming Hadoop]]
+# Lecture 4

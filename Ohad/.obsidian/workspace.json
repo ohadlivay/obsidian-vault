@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Business Intelligence and Data Warehousing"
             }
+          },
+          {
+            "id": "d72cddff1b5e1b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Intelligence and Data Warehousing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Business Intelligence and Data Warehousing"
+            }
+          },
+          {
+            "id": "2e4f5ad3d21c5f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Hadoop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programming Hadoop"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fact",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,14 +257,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "7dfa0008f8baab8d",
+  "active": "d72cddff1b5e1b87",
   "lastOpenFiles": [
-    "BI_HW.md",
     "OLAP.md",
-    "Data Warehouse.md",
-    "MBDMS.md",
-    "BI_Test.md",
     "Business Intelligence and Data Warehousing.md",
+    "MBDMS.md",
+    "Data Warehouse.md",
+    "Ontologies.md",
+    "BI_Test.md",
+    "Enterprise Modeling for BI.md",
+    "KPI.md",
+    "Programming Hadoop.md",
+    "Big Data.md",
+    "BI_HW.md",
     "Pasted image 20251117175903.png",
     "Pasted image 20251117173649.png",
     "BI_Project.md",
@@ -233,11 +287,6 @@
     "Ranked Retrieval.md",
     "Software Engineering and Quality Assurance.md",
     "Convolutional Neural Networks.md",
-    "Stemming.md",
-    "Word Normalization.md",
-    "Architectural Pattern.md",
-    "Interaction Models.md",
-    "Process Models.md",
     "Pasted image 20251115095608.png",
     "Pasted image 20251111174015.png",
     "Pasted image 20251111174005.png",

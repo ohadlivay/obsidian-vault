@@ -5,24 +5,44 @@
       "path": "Business Intelligence and Data Warehousing.md"
     },
     {
-      "basename": "BI_HW",
-      "path": "BI_HW.md"
-    },
-    {
       "basename": "OLAP",
       "path": "OLAP.md"
-    },
-    {
-      "basename": "Data Warehouse",
-      "path": "Data Warehouse.md"
     },
     {
       "basename": "MBDMS",
       "path": "MBDMS.md"
     },
     {
+      "basename": "Data Warehouse",
+      "path": "Data Warehouse.md"
+    },
+    {
+      "basename": "Ontologies",
+      "path": "Ontologies.md"
+    },
+    {
       "basename": "BI_Test",
       "path": "BI_Test.md"
+    },
+    {
+      "basename": "Enterprise Modeling for BI",
+      "path": "Enterprise Modeling for BI.md"
+    },
+    {
+      "basename": "KPI",
+      "path": "KPI.md"
+    },
+    {
+      "basename": "Programming Hadoop",
+      "path": "Programming Hadoop.md"
+    },
+    {
+      "basename": "Big Data",
+      "path": "Big Data.md"
+    },
+    {
+      "basename": "BI_HW",
+      "path": "BI_HW.md"
     },
     {
       "basename": "BI_Project",
@@ -117,16 +137,8 @@
       "path": "Project Kinneret.md"
     },
     {
-      "basename": "Progamming Hadoop",
-      "path": "Progamming Hadoop.md"
-    },
-    {
       "basename": "Apache Hadoop",
       "path": "Apache Hadoop.md"
-    },
-    {
-      "basename": "Big Data",
-      "path": "Big Data.md"
     },
     {
       "basename": "MapReduce",
@@ -143,18 +155,6 @@
     {
       "basename": "Sequential Consistency",
       "path": "Sequential Consistency.md"
-    },
-    {
-      "basename": "Enterprise Modeling for BI",
-      "path": "Enterprise Modeling for BI.md"
-    },
-    {
-      "basename": "Ontologies",
-      "path": "Ontologies.md"
-    },
-    {
-      "basename": "KPI",
-      "path": "KPI.md"
     },
     {
       "basename": "Text pre-processing",
@@ -195,10 +195,6 @@
     {
       "basename": "Leading and lagging indicators",
       "path": "Leading and lagging indicators.md"
-    },
-    {
-      "basename": "Organizational Measuring",
-      "path": "Organizational Measuring.md"
     }
   ],
   "omittedPaths": [],
