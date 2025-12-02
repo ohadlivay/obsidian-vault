@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "BI_HW",
+      "path": "BI_HW.md"
+    },
+    {
       "basename": "Business Intelligence and Data Warehousing",
       "path": "Business Intelligence and Data Warehousing.md"
+    },
+    {
+      "basename": "Semester 5",
+      "path": "Semester 5.md"
+    },
+    {
+      "basename": "BI_Test",
+      "path": "BI_Test.md"
+    },
+    {
+      "basename": "Information Retrieval",
+      "path": "Information Retrieval.md"
+    },
+    {
+      "basename": "Software Engineering and Quality Assurance",
+      "path": "Software Engineering and Quality Assurance.md"
+    },
+    {
+      "basename": "Seq2Seq",
+      "path": "Seq2Seq.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Transformer",
+      "path": "Transformer.md"
+    },
+    {
+      "basename": "Recurrent Neural Networks",
+      "path": "Recurrent Neural Networks.md"
+    },
+    {
+      "basename": "Data Warehouse",
+      "path": "Data Warehouse.md"
+    },
+    {
+      "basename": "Programming Hadoop",
+      "path": "Programming Hadoop.md"
+    },
+    {
+      "basename": "Enterprise Modeling for BI",
+      "path": "Enterprise Modeling for BI.md"
     },
     {
       "basename": "OLAP",
@@ -13,36 +61,16 @@
       "path": "MBDMS.md"
     },
     {
-      "basename": "Data Warehouse",
-      "path": "Data Warehouse.md"
-    },
-    {
       "basename": "Ontologies",
       "path": "Ontologies.md"
-    },
-    {
-      "basename": "BI_Test",
-      "path": "BI_Test.md"
-    },
-    {
-      "basename": "Enterprise Modeling for BI",
-      "path": "Enterprise Modeling for BI.md"
     },
     {
       "basename": "KPI",
       "path": "KPI.md"
     },
     {
-      "basename": "Programming Hadoop",
-      "path": "Programming Hadoop.md"
-    },
-    {
       "basename": "Big Data",
       "path": "Big Data.md"
-    },
-    {
-      "basename": "BI_HW",
-      "path": "BI_HW.md"
     },
     {
       "basename": "BI_Project",
@@ -57,14 +85,6 @@
       "path": "Query Expansion.md"
     },
     {
-      "basename": "Semester 5",
-      "path": "Semester 5.md"
-    },
-    {
-      "basename": "Information Retrieval",
-      "path": "Information Retrieval.md"
-    },
-    {
       "basename": "Unsupervised learning",
       "path": "Unsupervised learning.md"
     },
@@ -75,10 +95,6 @@
     {
       "basename": "Supervised learning",
       "path": "Supervised learning.md"
-    },
-    {
-      "basename": "Deep Learning",
-      "path": "Deep Learning.md"
     },
     {
       "basename": "Structural Models",
@@ -95,10 +111,6 @@
     {
       "basename": "Ranked Retrieval",
       "path": "Ranked Retrieval.md"
-    },
-    {
-      "basename": "Software Engineering and Quality Assurance",
-      "path": "Software Engineering and Quality Assurance.md"
     },
     {
       "basename": "Convolutional Neural Networks",
@@ -187,14 +199,6 @@
     {
       "basename": "Lemmatization",
       "path": "Lemmatization.md"
-    },
-    {
-      "basename": "MVC",
-      "path": "MVC.md"
-    },
-    {
-      "basename": "Leading and lagging indicators",
-      "path": "Leading and lagging indicators.md"
     }
   ],
   "omittedPaths": [],

@@ -56,9 +56,13 @@ Recap
 
 [[Convolutional Neural Networks]]
 # Deep learning Lec 4
-application
+application.. need to see zoom again
 # Deep learning Lec 5
+[[Recurrent Neural Networks|RNN]]
 # Deep learning Lec 6
+[[Seq2Seq]]
+[[Transformer]]
+
 # Deep learning Lec 7
 # Deep learning Lec 8
 # Deep learning Lec 9

@@ -32,3 +32,7 @@ Analytical goals
 [[OLAP]]
 [[Data Warehouse]]
 [[MBDMS]]
+# Lecture 5
+
+# Lecture 6
+# Lecture 7

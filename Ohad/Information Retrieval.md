@@ -51,3 +51,9 @@ Corpus > Document > Section > Paragraph > Sentence > Phrase > [[Term|word]] > Ch
 [[Unsupervised learning]]
 [[Clustering]]
 [[Query Expansion]]
+# Lecture 5
+[[Curse of dimensionality]]
+# Lecture 6
+# Lecture 7
+# Lecture 8
+# Lecture 9
