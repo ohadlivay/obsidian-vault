@@ -1,24 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "BI_Project",
+      "path": "BI_Project.md"
+    },
+    {
       "basename": "BI_HW",
       "path": "BI_HW.md"
+    },
+    {
+      "basename": "Visualization",
+      "path": "Visualization.md"
+    },
+    {
+      "basename": "Schema matching",
+      "path": "Schema matching.md"
     },
     {
       "basename": "Business Intelligence and Data Warehousing",
       "path": "Business Intelligence and Data Warehousing.md"
     },
     {
-      "basename": "Semester 5",
-      "path": "Semester 5.md"
-    },
-    {
       "basename": "BI_Test",
       "path": "BI_Test.md"
     },
     {
+      "basename": "Semester 5",
+      "path": "Semester 5.md"
+    },
+    {
       "basename": "Information Retrieval",
       "path": "Information Retrieval.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Deep Learning.md"
+    },
+    {
+      "basename": "Spark",
+      "path": "Spark.md"
+    },
+    {
+      "basename": "Big Data",
+      "path": "Big Data.md"
+    },
+    {
+      "basename": "Docker Containerization",
+      "path": "Docker Containerization.md"
     },
     {
       "basename": "Software Engineering and Quality Assurance",
@@ -27,10 +55,6 @@
     {
       "basename": "Seq2Seq",
       "path": "Seq2Seq.md"
-    },
-    {
-      "basename": "Deep Learning",
-      "path": "Deep Learning.md"
     },
     {
       "basename": "Transformer",
@@ -67,14 +91,6 @@
     {
       "basename": "KPI",
       "path": "KPI.md"
-    },
-    {
-      "basename": "Big Data",
-      "path": "Big Data.md"
-    },
-    {
-      "basename": "BI_Project",
-      "path": "BI_Project.md"
     },
     {
       "basename": "Clustering",
@@ -183,22 +199,6 @@
     {
       "basename": "Indexing",
       "path": "Indexing.md"
-    },
-    {
-      "basename": "Inverted Index",
-      "path": "Inverted Index.md"
-    },
-    {
-      "basename": "Positional Indexes",
-      "path": "Positional Indexes.md"
-    },
-    {
-      "basename": "Tokenization",
-      "path": "Tokenization.md"
-    },
-    {
-      "basename": "Lemmatization",
-      "path": "Lemmatization.md"
     }
   ],
   "omittedPaths": [],

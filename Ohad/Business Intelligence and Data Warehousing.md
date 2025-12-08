@@ -33,6 +33,8 @@ Analytical goals
 [[Data Warehouse]]
 [[MBDMS]]
 # Lecture 5
+[[Schema matching]]
 
 # Lecture 6
+[[Visualization]]
 # Lecture 7

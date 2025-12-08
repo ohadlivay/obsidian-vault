@@ -23,3 +23,11 @@ drill down too much -> become so granular that each unique value gets a cell.
 snowflake and star schema - will ask about this.
 
 3 types (slowly changing dimensions) which is best -  snowflake or star (snowflake best because thinner added row)
+
+elt vs etl
+elt advantage is by demand transformation since it is expensive to transform. 
+more in lecture.
+
+schema matching (!)
+
+confusion matrix like F-score (bring these formulas to test!)

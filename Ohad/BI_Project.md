@@ -3,4 +3,4 @@ not everyone will have time to present. abstract is used to judge for presentati
 work on real data, real company. 
 abstract to be handed mid-semester. 
 
-likes graphs. 
+ednan likes graphs. he REALLY likes graphs.

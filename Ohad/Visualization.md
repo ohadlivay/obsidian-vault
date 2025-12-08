@@ -1,0 +1,2 @@
+simplify complexity
+effective communication method
