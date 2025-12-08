@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CAP Theorem",
+      "path": "CAP Theorem.md"
+    },
+    {
       "basename": "Information Retrieval",
       "path": "Information Retrieval.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "SWEQA Project",
       "path": "SWEQA Project.md"
-    },
-    {
-      "basename": "CAP Theorem",
-      "path": "CAP Theorem.md"
     },
     {
       "basename": "Sequential Consistency",

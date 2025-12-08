@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Retrieval.md",
+                "file": "CAP Theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Information Retrieval"
+              "title": "CAP Theorem"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quiz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,17 +210,19 @@
   },
   "active": "c53f8a4bb3831e7c",
   "lastOpenFiles": [
-    "Word.md",
-    "Information Retrieval.md",
-    "Pasted image 20251115095608.png",
+    "Prompt Optimizing.md",
+    "CAP Theorem.md",
     "Ranked Retrieval.md",
+    "Information Retrieval.md",
+    "Indexing.md",
+    "Word.md",
+    "Pasted image 20251115095608.png",
     "Project Kinneret.md",
     "Apache Hadoop.md",
     "Big Data.md",
     "Progamming Hadoop.md",
     "MapReduce.md",
     "SWEQA Project.md",
-    "CAP Theorem.md",
     "Pasted image 20251111174015.png",
     "Pasted image 20251111174005.png",
     "Sequential Consistency.md",
@@ -237,8 +239,6 @@
     "Logarithm.md",
     "Nueron.md",
     "Stemming.md",
-    "Indexing.md",
-    "Inverted Index.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
