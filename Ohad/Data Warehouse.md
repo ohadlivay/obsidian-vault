@@ -1,2 +1,2 @@
 store [[Data|data]] for [[Business Intelligence|BI]] and analytics. 
-such as datamarts, inmon, kimball. 
+such as datamarts, inmon, [[Kimball]]. 
