@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "CAP Theorem"
             }
+          },
+          {
+            "id": "88e8f15a95399ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NL-2-SQL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NL-2-SQL"
+            }
+          },
+          {
+            "id": "7a249620fe47ae8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OHDSI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OHDSI"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kinne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,16 +257,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "c53f8a4bb3831e7c",
+  "active": "7a249620fe47ae8a",
   "lastOpenFiles": [
-    "Prompt Optimizing.md",
+    "Pasted image 20251219072201.png",
+    "Project Kinneret.md",
+    "OHDSI.md",
+    "NL-2-SQL.md",
     "CAP Theorem.md",
+    "Prompt Optimizing.md",
     "Ranked Retrieval.md",
     "Information Retrieval.md",
     "Indexing.md",
     "Word.md",
     "Pasted image 20251115095608.png",
-    "Project Kinneret.md",
     "Apache Hadoop.md",
     "Big Data.md",
     "Progamming Hadoop.md",
@@ -236,9 +288,6 @@
     "BI_HW1.md",
     "Text pre-processing.md",
     "Term-Frequency.md",
-    "Logarithm.md",
-    "Nueron.md",
-    "Stemming.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",

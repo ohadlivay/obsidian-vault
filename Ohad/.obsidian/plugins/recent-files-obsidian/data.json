@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "OHDSI",
+      "path": "OHDSI.md"
+    },
+    {
+      "basename": "Project Kinneret",
+      "path": "Project Kinneret.md"
+    },
+    {
+      "basename": "NL-2-SQL",
+      "path": "NL-2-SQL.md"
+    },
+    {
       "basename": "CAP Theorem",
       "path": "CAP Theorem.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Ranked Retrieval",
       "path": "Ranked Retrieval.md"
-    },
-    {
-      "basename": "Project Kinneret",
-      "path": "Project Kinneret.md"
     },
     {
       "basename": "Progamming Hadoop",
@@ -191,14 +199,6 @@
     {
       "basename": "Zipf's Law",
       "path": "Zipf's Law.md"
-    },
-    {
-      "basename": "Query Processing",
-      "path": "Query Processing.md"
-    },
-    {
-      "basename": "SCRUM",
-      "path": "SCRUM.md"
     }
   ],
   "omittedPaths": [],
