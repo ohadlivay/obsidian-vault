@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7cb0334cbfc5fd6a",
+    "id": "37aba36080e83a20",
     "type": "split",
     "children": [
       {
-        "id": "80e4899714925b9a",
+        "id": "c6a086f9a4b47282",
         "type": "tabs",
         "children": [
           {
-            "id": "c53f8a4bb3831e7c",
+            "id": "29802f892de832cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAP Theorem.md",
+                "file": "Deep Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,29 +28,102 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CAP Theorem"
+              "title": "Deep Learning"
+            }
+          },
+          {
+            "id": "6febd5d2410fb262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big Data.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Big Data"
+            }
+          },
+          {
+            "id": "6d16b868cb7dff97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big Data for ML.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Big Data for ML"
+            }
+          },
+          {
+            "id": "e36d10b906348bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spark SQL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Spark SQL"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "17338a4fdc467b9f",
+    "id": "ed7074cace65cf77",
     "type": "split",
     "children": [
       {
-        "id": "10f753c52e19a488",
+        "id": "751f55a252e1e747",
         "type": "tabs",
         "children": [
           {
-            "id": "0b107f75606b9773",
+            "id": "23f3c9566156a96f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -58,12 +131,12 @@
             }
           },
           {
-            "id": "3227d6fcc96458be",
+            "id": "f12faffed8876380",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "big data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +148,7 @@
             }
           },
           {
-            "id": "69798e96c5a65476",
+            "id": "6ef7cc4e88021b86",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,38 +156,29 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "642d7080daa20cbc",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "03a524115f5911e7",
+    "id": "c1127009dc2c805c",
     "type": "split",
     "children": [
       {
-        "id": "4172715578017e30",
+        "id": "bf98a7bc3db841b6",
         "type": "tabs",
         "children": [
           {
-            "id": "c3583b95bae773a5",
+            "id": "7dd92b6838f09cc9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kimball.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,25 +188,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Kimball"
             }
           },
           {
-            "id": "bfbf0780a8c81953",
+            "id": "cf97b2f0ecf18633",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.md",
+                "file": "Kimball.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Node"
+              "title": "Outgoing links from Kimball"
             }
           },
           {
-            "id": "9032d6d5d3b11ae8",
+            "id": "cb56e8ab3ad01264",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,31 +221,22 @@
             }
           },
           {
-            "id": "b0740394cebcf549",
+            "id": "23dcf42f7ef3631e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Kimball.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Kimball"
             }
           },
           {
-            "id": "6434b88209508f94",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "c972a7acb24fdac4",
+            "id": "7e42763d8c66b080",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -191,11 +246,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,53 +264,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "c53f8a4bb3831e7c",
+  "active": "6d16b868cb7dff97",
   "lastOpenFiles": [
-    "Prompt Optimizing.md",
-    "CAP Theorem.md",
-    "Ranked Retrieval.md",
-    "Information Retrieval.md",
-    "Indexing.md",
-    "Word.md",
-    "Pasted image 20251115095608.png",
-    "Project Kinneret.md",
-    "Apache Hadoop.md",
+    "Spark SQL.md",
+    "Big Data for ML.md",
     "Big Data.md",
-    "Progamming Hadoop.md",
-    "MapReduce.md",
-    "SWEQA Project.md",
-    "Pasted image 20251111174015.png",
-    "Pasted image 20251111174005.png",
-    "Sequential Consistency.md",
-    "Enterprise Modeling for BI.md",
-    "BI_Test.md",
-    "Ontologies.md",
-    "Business Intelligence and Data Warehousing.md",
-    "KPI.md",
+    "Deep Learning.md",
     "BI_Project.md",
-    "Semester 5.md",
-    "BI_HW1.md",
-    "Text pre-processing.md",
-    "Term-Frequency.md",
-    "Logarithm.md",
-    "Nueron.md",
-    "Stemming.md",
-    "Untitled.canvas",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Pasted image 20251109105557.png",
-    "Pasted image 20251104171929.png",
-    "Pasted image 20251030173228.png",
-    "Pasted image 20251030142941.png",
-    "Pasted image 20251030141236.png",
-    "Pasted image 20251030135621.png",
-    "Pasted image 20251030135619.png",
-    "Tokenization",
-    "שנה ג.canvas",
-    "Canvas Syntax.canvas",
-    "Untitled 1.canvas",
-    "Request",
-    "Untitled 1",
-    "Binary Classification"
+    "GAN.md",
+    "Distributed pub-sub.md",
+    "Pasted image 20251216173836.png",
+    "Distributed pub/sub.md",
+    "Distributed pub",
+    "Programming Hadoop.md",
+    "Data Warehouse.md",
+    "Design patterns.md",
+    "Kimball.md"
   ]
 }

@@ -55,9 +55,8 @@ Recap
 	mlp
 
 [[Convolutional Neural Networks]]
-# Deep learning Lec 4
-application
-# Deep learning Lec 5
+[[GAN]]
+[[Diffusion Models]]
 # Deep learning Lec 6
 # Deep learning Lec 7
 # Deep learning Lec 8

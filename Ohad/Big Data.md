@@ -127,14 +127,16 @@ network becomes bottleneck if we need to move lots of data.
 ## [[Apache Hadoop]]
 # Lecture 3
 [[CAP Theorem]]
-<<<<<<< Updated upstream
 [[Progamming Hadoop]]
-=======
-[[Programming Hadoop]]
-# Lecture 5(?)
+# Lecture 5
 [[Docker Containerization]]
 [[Spark]]
-
 # Lecture 6
 [[RDD-based programming]]
->>>>>>> Stashed changes
+# Lecture 7
+[[Distributed pub-sub]]
+
+# Lecture 8
+[[Spark SQL]]
+# Lecture 9
+[[Big Data for ML]]
