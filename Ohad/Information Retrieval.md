@@ -45,3 +45,6 @@ Corpus > Document > Section > Paragraph > Sentence > Phrase > [[Term|word]] > Ch
  [[Text pre-processing]]
 [[Indexing]]
 [[Ranked Retrieval]]
+
+
+[[IR Summary]]

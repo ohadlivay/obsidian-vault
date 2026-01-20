@@ -62,5 +62,6 @@ Recap
 # Deep learning Lec 8
 # Deep learning Lec 9
 # Deep learning Lec 10
+[[GNN]]
 # Deep learning Lec 11
 # Deep learning Lec 12
