@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a086f9a4b47282",
+        "id": "927e957b0f7b463e",
         "type": "tabs",
         "children": [
           {
-            "id": "29802f892de832cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Deep Learning"
-            }
-          },
-          {
-            "id": "6febd5d2410fb262",
+            "id": "b9bfddffc7536931",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +32,7 @@
             }
           },
           {
-            "id": "6d16b868cb7dff97",
+            "id": "aa5845c655334ede",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Big Data for ML"
             }
-          },
-          {
-            "id": "e36d10b906348bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spark SQL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spark SQL"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "big data",
+                "query": "big dat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,11 +216,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d16b868cb7dff97",
+  "active": "aa5845c655334ede",
   "lastOpenFiles": [
-    "Spark SQL.md",
-    "Big Data for ML.md",
+    "Pasted image 20251219072201.png",
+    "OHDSI.md",
     "Big Data.md",
+    "Big Data for ML.md",
+    "IR Summary.md",
+    "Information Retrieval.md",
+    "Model-driven Engineering.md",
+    "Summary.md",
+    "Software Engineering and Quality Assurance.md",
+    "Spark SQL.md",
+    "GNN.md",
     "Deep Learning.md",
     "BI_Project.md",
     "GAN.md",
